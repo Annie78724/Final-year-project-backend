@@ -290,6 +290,7 @@ app.get("/api/get-cited-by-information", async (req, res) => {
 });
 
 
-app.listen(5000, (req, res) => {
-  console.log("Server is listening to port 5000");
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });
