@@ -209,7 +209,7 @@ app.post("/api/insert-cited-by-information", async (req, res) => {
 });
 
 //get Authors
-app.get("/authors", async (req, res) => {
+app.post("/authors", async (req, res) => {
   try {
     const getAuthors = await pool.query("SELECT * FROM author WHERE LOWER(name) LIKE LOWER($1);",["%"+req.body.name+"%"]);
     console.log(getAuthors.rows);
@@ -221,7 +221,7 @@ app.get("/authors", async (req, res) => {
 
 //get all data
 
-app.get("/get-all-data", async (req, res) => {
+app.post("/get-all-data", async (req, res) => {
   try {
     const getCoAuthors = await pool.query("SELECT A.author_id, A.name AS author_name, A.email, A.website, A.affiliations AS author_affiliations, A.thumbnail AS author_thumbnail, A.interests AS author_interests, (SELECT json_agg(json_build_object('citation_id', AR.citation_id, 'cites_id', AR.cites_id, 'title', AR.title, 'authors', AR.authors, 'year', AR.year, 'publications', AR.publications, 'cited_by_value', AR.cited_by_value)) FROM Articles AR WHERE AR.author_id = A.author_id) AS articles, (SELECT json_agg(json_build_object('name', CA.name, 'affiliations', CA.affiliations, 'thumbnail', CA.thumbnail)) FROM CoAuthors CA WHERE CA.author_id = A.author_id) AS coauthors FROM Author A WHERE A.author_id = $1",[req.body.id]);
     console.log(getCoAuthors.rows);
@@ -231,7 +231,7 @@ app.get("/get-all-data", async (req, res) => {
   }
 });
 
-app.get("/api/get-cited-by-information", async (req, res) => {
+app.post("/api/get-cited-by-information", async (req, res) => {
   try {
     const { author_id, cites_id } = req.body; // Extract author_id and cites_id from req.body
 
