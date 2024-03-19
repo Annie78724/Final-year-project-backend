@@ -1,0 +1,32 @@
+{
+    "search_parameters": {
+        "author_id": "A_sYj7IAAAAJ",
+        "cites_id": "16196470461859180908"
+    },
+    "organic_results": [
+        {
+            "result_id": "en-EuwfyJCkJ",
+            "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+            "publication_info": {
+                "authors": [
+                    {
+                        "name": "HB Barua",
+                        "author_id": "A_sYj7IAAAAJ"
+                    }
+                ]
+            }
+        },
+        {
+            "result_id": "en-EuwfyJCkJ",
+            "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+            "publication_info": {
+                "authors": [
+                    {
+                        "name": "A Sau",
+                        "author_id": "PUgt5BQAAAAJ"
+                    }
+                ]
+            }
+        }
+    ]
+}

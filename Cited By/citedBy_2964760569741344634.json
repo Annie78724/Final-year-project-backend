@@ -1,0 +1,51 @@
+{
+  "search_metadata": {
+    "id": "65435a52aa6c9515ab4ef300",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/244df57b54980b76/65435a52aa6c9515ab4ef300.json",
+    "created_at": "2023-11-02 08:14:10 UTC",
+    "processed_at": "2023-11-02 08:14:10 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=2964760569741344634&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/244df57b54980b76/65435a52aa6c9515ab4ef300.html",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "2964760569741344634",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=2964760569741344634&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Designing an Intangible Tele-Interaction for Point-to-Point Robot Control Using Coercive Gesture Filtering",
+      "result_id": "90S8Bhasf8IJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-24848-1_20",
+      "snippet": "Teleoperation of Kinematics has been a significant research in computation which can extend the interaction from tangible to intangible devices over a large distance. This work …",
+      "publication_info": {
+        "summary": "AK Pal, A Acharjee, A Das, A Bhowmik… - … Conference on Distributed …, 2023 - Springer"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=90S8Bhasf8IJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:90S8Bhasf8IJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2964760569741344634&engine=google_scholar&hl=en&q=related%3A90S8Bhasf8IJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=14015109776002532599&hl=en&as_sdt=5,44",
+          "cluster_id": "14015109776002532599",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=14015109776002532599&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

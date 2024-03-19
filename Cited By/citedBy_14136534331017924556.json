@@ -1,0 +1,2032 @@
+{
+    "search_metadata": {
+        "id": "65434706272aa52bd95d59a7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/abcab2f7e13e2aab/65434706272aa52bd95d59a7.json",
+        "created_at": "2023-11-02 06:51:50 UTC",
+        "processed_at": "2023-11-02 06:51:50 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?cites=14136534331017924556&hl=en&scipsc=1",
+        "raw_html_file": "https://serpapi.com/searches/abcab2f7e13e2aab/65434706272aa52bd95d59a7.html",
+        "total_time_taken": 1.24
+    },
+    "search_parameters": {
+        "engine": "google_scholar",
+        "cites": "14136534331017924556",
+        "hl": "en"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "total_results": 56,
+        "time_taken_displayed": 0.02
+    },
+    "profiles": {
+        "link": "https://scholar.google.com/scholar?cluster=14136534331017924556&hl=en&as_sdt=5,44&sciodt=0,44",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+        {
+            "position": 0,
+            "title": "Towards energy efficiency in the internet of wearable things: A systematic review",
+            "result_id": "7cdyNMtzXmQJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9201290/",
+            "snippet": "Personal mobile devices such as smartwatches, smart jewelry, and smart clothes have launched a new trend in the Internet of Things (IoT) era, namely the Internet of Wearable …",
+            "publication_info": {
+                "summary": "WB Qaim, A Ometov, A Molinaro, I Lener… - IEEE …, 2020 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "WB Qaim",
+                        "link": "https://scholar.google.com/citations?user=RZp8jL4AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RZp8jL4AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "RZp8jL4AAAAJ"
+                    },
+                    {
+                        "name": "A Ometov",
+                        "link": "https://scholar.google.com/citations?user=3UDm51cAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3UDm51cAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "3UDm51cAAAAJ"
+                    },
+                    {
+                        "name": "A Molinaro",
+                        "link": "https://scholar.google.com/citations?user=JzTqyVUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JzTqyVUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "JzTqyVUAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "ieee.org",
+                    "file_format": "PDF",
+                    "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09201290.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7cdyNMtzXmQJ",
+                "cited_by": {
+                    "total": 63,
+                    "link": "https://scholar.google.com/scholar?cites=7232345368199088109&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "7232345368199088109",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7232345368199088109&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:7cdyNMtzXmQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3A7cdyNMtzXmQJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=7232345368199088109&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "7232345368199088109",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7232345368199088109&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "Approximation Opportunities in Edge Computing Hardware: A Systematic Literature Review",
+            "result_id": "P7HUbQsTCyIJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3572772",
+            "snippet": "With the increasing popularity of the Internet of Things and massive Machine Type Communication technologies, the number of connected devices is rising. However, although …",
+            "publication_info": {
+                "summary": "HJ Damsgaard, A Ometov, J Nurmi - ACM Computing Surveys, 2023 - dl.acm.org",
+                "authors": [
+                    {
+                        "name": "HJ Damsgaard",
+                        "link": "https://scholar.google.com/citations?user=xZrzxjQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xZrzxjQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "xZrzxjQAAAAJ"
+                    },
+                    {
+                        "name": "A Ometov",
+                        "link": "https://scholar.google.com/citations?user=3UDm51cAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3UDm51cAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "3UDm51cAAAAJ"
+                    },
+                    {
+                        "name": "J Nurmi",
+                        "link": "https://scholar.google.com/citations?user=UouE1JQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UouE1JQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "UouE1JQAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "acm.org",
+                    "file_format": "PDF",
+                    "link": "https://dl.acm.org/doi/pdf/10.1145/3572772"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=P7HUbQsTCyIJ",
+                "cited_by": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cites=2453075361841590591&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "2453075361841590591",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2453075361841590591&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:P7HUbQsTCyIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AP7HUbQsTCyIJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=2453075361841590591&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "2453075361841590591",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2453075361841590591&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "The carbon footprint of streaming media: problems, calculations, solutions",
+            "result_id": "dFoiJggt4LkJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-98120-4_10",
+            "snippet": "Streaming media constitutes a significant proportion of information and communication technologies (ICT), whose electricity consumption and contribution to greenhouse gas …",
+            "publication_info": {
+                "summary": "LU Marks, R Przedpełski - Film and television production in the Age of …, 2022 - Springer",
+                "authors": [
+                    {
+                        "name": "LU Marks",
+                        "link": "https://scholar.google.com/citations?user=Ptdn9ZAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ptdn9ZAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Ptdn9ZAAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "sfu.ca",
+                    "file_format": "PDF",
+                    "link": "https://www.sfu.ca/~lmarks/downloads/files/Marks%20and%20Przedpe%C5%82ski,%20The%20Carbon%20Footprint%20of%20Streaming%20Media.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=dFoiJggt4LkJ",
+                "cited_by": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cites=13393754804822628980&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "13393754804822628980",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=13393754804822628980&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:dFoiJggt4LkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AdFoiJggt4LkJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=13393754804822628980&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "13393754804822628980",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13393754804822628980&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Low-power and high-throughput approximated architecture for av1 fme interpolation",
+            "result_id": "dISmypHy-GoJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9401224/",
+            "snippet": "Modern video encoders like the AOM Video 1 (AV1) implement several complex tools to allow the required high level of compression efficiency. The Fractional Motion Estimation …",
+            "publication_info": {
+                "summary": "R Domanski, W Kolodziejski, G Correa… - … on Circuits and …, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "R Domanski",
+                        "link": "https://scholar.google.com/citations?user=QwVcs1cAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QwVcs1cAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "QwVcs1cAAAAJ"
+                    },
+                    {
+                        "name": "G Correa",
+                        "link": "https://scholar.google.com/citations?user=uQ807KAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uQ807KAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "uQ807KAAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=dISmypHy-GoJ",
+                "cited_by": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cites=7708177470228694132&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "7708177470228694132",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7708177470228694132&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:dISmypHy-GoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AdISmypHy-GoJ%3Ascholar.google.com%2F"
+            }
+        },
+        {
+            "position": 4,
+            "title": "Accuracy and size trade-off of a cartesian genetic programming flow for logic optimization",
+            "result_id": "PM-MHGZ37WUJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9529968/",
+            "snippet": "Logic synthesis tools face tough challenges when providing algorithms for synthesizing circuits with increased inputs and complexity. Traditional approaches for logic synthesis …",
+            "publication_info": {
+                "summary": "A Berndt, IS Campos, B Lima, M Grellert… - 2021 34th SBC …, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "A Berndt",
+                        "link": "https://scholar.google.com/citations?user=Xi4a08YAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xi4a08YAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Xi4a08YAAAAJ"
+                    },
+                    {
+                        "name": "M Grellert",
+                        "link": "https://scholar.google.com/citations?user=V9ZSEjoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V9ZSEjoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "V9ZSEjoAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PM-MHGZ37WUJ",
+                "cited_by": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cites=7344657847760506684&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "7344657847760506684",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7344657847760506684&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:PM-MHGZ37WUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3APM-MHGZ37WUJ%3Ascholar.google.com%2F"
+            }
+        },
+        {
+            "position": 5,
+            "title": "Automated metadata extraction can make data swamps more navigable",
+            "result_id": "wNSx783YZ4YJ",
+            "link": "https://search.proquest.com/openview/abc806152825327ff4810668571219d9/1?pq-origsite=gscholar&cbl=18750&diss=y",
+            "snippet": "In a science utopia, every research repository would be accompanied by a database of rich, searchable metadata that users can quickly and confidently query to discover, retrieve, and …",
+            "publication_info": {
+                "summary": "TJ Skluzacek - 2022 - search.proquest.com",
+                "authors": [
+                    {
+                        "name": "TJ Skluzacek",
+                        "link": "https://scholar.google.com/citations?user=S2g6hQYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=S2g6hQYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "S2g6hQYAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "uchicago.edu",
+                    "file_format": "PDF",
+                    "link": "https://knowledge.uchicago.edu/record/4760/files/Skluzacek_uchicago_0330D_16427.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wNSx783YZ4YJ",
+                "cited_by": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cites=9684947902684845248&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "9684947902684845248",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9684947902684845248&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:wNSx783YZ4YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AwNSx783YZ4YJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=9684947902684845248&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "9684947902684845248",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9684947902684845248&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Data science and Machine learning in the Clouds: A Perspective for the Future",
+            "result_id": "xTLKneDx-yAJ",
+            "link": "https://arxiv.org/abs/2109.01661",
+            "snippet": "As we are fast approaching the beginning of a paradigm shift in the field of science, Data driven science (the so called fourth science paradigm) is going to be the driving force in …",
+            "publication_info": {
+                "summary": "HB Barua - arXiv preprint arXiv:2109.01661, 2021 - arxiv.org",
+                "authors": [
+                    {
+                        "name": "HB Barua",
+                        "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "A_sYj7IAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/2109.01661"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xTLKneDx-yAJ",
+                "cited_by": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cites=2376759175390311109&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "2376759175390311109",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2376759175390311109&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:xTLKneDx-yAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AxTLKneDx-yAJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=2376759175390311109&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "2376759175390311109",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2376759175390311109&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xTLKneDx-yAJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+            }
+        },
+        {
+            "position": 7,
+            "title": "Efficient acceleration of stencil applications through in-memory computing",
+            "result_id": "NcElBIUWJwwJ",
+            "link": "https://www.mdpi.com/2072-666X/11/6/622",
+            "snippet": "The traditional computer architectures severely suffer from the bottleneck between the processing elements and memory that is the biggest barrier in front of their scalability …",
+            "publication_info": {
+                "summary": "HE Yantır, AM Eltawil, KN Salama - Micromachines, 2020 - mdpi.com",
+                "authors": [
+                    {
+                        "name": "HE Yantır",
+                        "link": "https://scholar.google.com/citations?user=Q0eeAL0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q0eeAL0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Q0eeAL0AAAAJ"
+                    },
+                    {
+                        "name": "AM Eltawil",
+                        "link": "https://scholar.google.com/citations?user=XzW-KWoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XzW-KWoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "XzW-KWoAAAAJ"
+                    },
+                    {
+                        "name": "KN Salama",
+                        "link": "https://scholar.google.com/citations?user=wRUKAMMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wRUKAMMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "wRUKAMMAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "mdpi.com",
+                    "file_format": "PDF",
+                    "link": "https://www.mdpi.com/2072-666X/11/6/622/pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NcElBIUWJwwJ",
+                "cited_by": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cites=875693413102895413&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "875693413102895413",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=875693413102895413&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:NcElBIUWJwwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ANcElBIUWJwwJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=875693413102895413&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "875693413102895413",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=875693413102895413&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NcElBIUWJwwJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+            }
+        },
+        {
+            "position": 8,
+            "title": "A CGP-based logic flow: optimizing accuracy and size of approximate circuits",
+            "result_id": "kC4T6aN33zgJ",
+            "link": "https://jics.org.br/ojs/index.php/JICS/article/view/546",
+            "snippet": "Logic synthesis tools face tough challenges when providing algorithms for synthesizing circuits with increased inputs and complexity. Machine learning techniques show high …",
+            "publication_info": {
+                "summary": "AAS Berndt, B Abreu, IS Campos, B Lima… - Journal of Integrated …, 2022 - jics.org.br",
+                "authors": [
+                    {
+                        "name": "AAS Berndt",
+                        "link": "https://scholar.google.com/citations?user=Xi4a08YAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xi4a08YAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Xi4a08YAAAAJ"
+                    },
+                    {
+                        "name": "B Abreu",
+                        "link": "https://scholar.google.com/citations?user=l_2p3eUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=l_2p3eUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "l_2p3eUAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "jics.org.br",
+                    "file_format": "PDF",
+                    "link": "https://jics.org.br/ojs/index.php/JICS/article/download/546/380"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kC4T6aN33zgJ",
+                "cited_by": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cites=4098125731804163728&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "4098125731804163728",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=4098125731804163728&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:kC4T6aN33zgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AkC4T6aN33zgJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=4098125731804163728&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "4098125731804163728",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=4098125731804163728&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:kC4T6aN33zgJ:scholar.google.com/&hl=en&as_sdt=5,44&sciodt=0,44"
+            }
+        },
+        {
+            "position": 9,
+            "title": "Model-based design space exploration for fpga-based image processing applications employing parameterizable approximations",
+            "result_id": "gVZKUxD3fWIJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0141933121005317",
+            "snippet": "The increasing demand for low power consumption and high computational performance is outpacing available technological improvements in embedded systems. Approximate …",
+            "publication_info": {
+                "summary": "S Conrady, A Kreddig, M Manuel, NAV Doan… - Microprocessors and …, 2021 - Elsevier",
+                "authors": [
+                    {
+                        "name": "M Manuel",
+                        "link": "https://scholar.google.com/citations?user=1ikvaW0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ikvaW0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1ikvaW0AAAAJ"
+                    },
+                    {
+                        "name": "NAV Doan",
+                        "link": "https://scholar.google.com/citations?user=P_dYs6UAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=P_dYs6UAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "P_dYs6UAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gVZKUxD3fWIJ",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=7097100237294687873&as_sdt=5,44&sciodt=0,44&hl=en",
+                    "cites_id": "7097100237294687873",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7097100237294687873&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:gVZKUxD3fWIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44&sciodt=0,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AgVZKUxD3fWIJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=7097100237294687873&hl=en&as_sdt=5,44&sciodt=0,44",
+                    "cluster_id": "7097100237294687873",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7097100237294687873&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "Machine Learning and Data Mining Algorithms for Geospatial Big Data",
+            "result_id": "o1lpA0UQLzwJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-33932-5_12",
+            "snippet": "This chapter focuses on strategies to extend and adapt traditional machine learning algorithms for remote sensing and geospatial big data. Ten major strategies are discussed …",
+            "publication_info": {
+                "summary": "L Di, E Yu - Remote Sensing Big Data, 2023 - Springer",
+                "authors": [
+                    {
+                        "name": "L Di",
+                        "link": "https://scholar.google.com/citations?user=7U_hx20AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7U_hx20AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "7U_hx20AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=o1lpA0UQLzwJ"
+            }
+        },
+        {
+            "position": 11,
+            "title": "A Low-Cost and Do-It-Yourself Device for Pumping Monitoring in Deep Aquifers",
+            "result_id": "AXO-7wtyKycJ",
+            "link": "https://www.mdpi.com/2079-9292/11/22/3788",
+            "snippet": "Water crises due to climate change, high population growth and increasing demands from industry and agriculture claim for increasing efficiency and universalizing water resources …",
+            "publication_info": {
+                "summary": "C Aliagas, A Pérez-Foguet, R Meseguer, P Millán… - Electronics, 2022 - mdpi.com",
+                "authors": [
+                    {
+                        "name": "C Aliagas",
+                        "link": "https://scholar.google.com/citations?user=YZEj4uYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YZEj4uYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "YZEj4uYAAAAJ"
+                    },
+                    {
+                        "name": "A Pérez-Foguet",
+                        "link": "https://scholar.google.com/citations?user=lI0GTf4AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lI0GTf4AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "lI0GTf4AAAAJ"
+                    },
+                    {
+                        "name": "R Meseguer",
+                        "link": "https://scholar.google.com/citations?user=qWGzKXIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qWGzKXIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qWGzKXIAAAAJ"
+                    },
+                    {
+                        "name": "P Millán",
+                        "link": "https://scholar.google.com/citations?user=7Tqh3SQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7Tqh3SQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "7Tqh3SQAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "mdpi.com",
+                    "file_format": "PDF",
+                    "link": "https://www.mdpi.com/2079-9292/11/22/3788/pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AXO-7wtyKycJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:AXO-7wtyKycJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AAXO-7wtyKycJ%3Ascholar.google.com%2F&start=10",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=2822474987070190337&hl=en&as_sdt=5,44",
+                    "cluster_id": "2822474987070190337",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2822474987070190337&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:AXO-7wtyKycJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 12,
+            "title": "Feasibility of a neural network with linearly approximated functions on zynq fpga",
+            "result_id": "qSbw455wZ8cJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9970813/",
+            "snippet": "This paper is focused on the feasibility of a neural network with linearly approximated functions on modern FPGA. An approximate multiplier and linearly approximated activation …",
+            "publication_info": {
+                "summary": "M Skrbek, P Kubalík - 2022 29th IEEE International Conference …, 2022 - ieeexplore.ieee.org"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qSbw455wZ8cJ",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=14368576963880167081&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "14368576963880167081",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14368576963880167081&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:qSbw455wZ8cJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AqSbw455wZ8cJ%3Ascholar.google.com%2F&start=10"
+            }
+        },
+        {
+            "position": 13,
+            "title": "Green computing for big data and machine learning",
+            "result_id": "TOZ8qSNd-NgJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3493700.3493772",
+            "snippet": "The current decade has beheld a tremendous spike in data volume, velocity, variety and many other such aspects which we call as Big Data and which gave birth to a new kind of …",
+            "publication_info": {
+                "summary": "HB Barua, KC Mondal, S Khatua - … on Data Science & Management of …, 2022 - dl.acm.org",
+                "authors": [
+                    {
+                        "name": "HB Barua",
+                        "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "A_sYj7IAAAAJ"
+                    },
+                    {
+                        "name": "KC Mondal",
+                        "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nCjzFVwAAAAJ"
+                    },
+                    {
+                        "name": "S Khatua",
+                        "link": "https://scholar.google.com/citations?user=mPoxlFIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mPoxlFIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "mPoxlFIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "researchgate.net",
+                    "file_format": "PDF",
+                    "link": "https://www.researchgate.net/profile/Hrishav-Barua/publication/357679225_Green_Computing_for_Big_Data_and_Machine_Learning/links/61dc6db33a192d2c8aefd91f/Green-Computing-for-Big-Data-and-Machine-Learning.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TOZ8qSNd-NgJ",
+                "cited_by": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cites=15634348514165450316&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "15634348514165450316",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15634348514165450316&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:TOZ8qSNd-NgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ATOZ8qSNd-NgJ%3Ascholar.google.com%2F&start=10",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=15634348514165450316&hl=en&as_sdt=5,44",
+                    "cluster_id": "15634348514165450316",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15634348514165450316&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 14,
+            "title": "Region of Interest-Based Parameter Optimization for Approximate Image Processing on FPGAs",
+            "result_id": "NAgU1G61YeAJ",
+            "link": "https://www.jstage.jst.go.jp/article/ijnc/11/2/11_438/_article/-char/ja/",
+            "snippet": "In recent years, technological advancements in computer hardware systems have been lagging behind the demand for increased computational power, especially in application …",
+            "publication_info": {
+                "summary": "M Manuel, A Kreddig, S Conrady… - International Journal of …, 2021 - jstage.jst.go.jp",
+                "authors": [
+                    {
+                        "name": "M Manuel",
+                        "link": "https://scholar.google.com/citations?user=1ikvaW0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ikvaW0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1ikvaW0AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "jst.go.jp",
+                    "file_format": "PDF",
+                    "link": "https://www.jstage.jst.go.jp/article/ijnc/11/2/11_438/_pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NAgU1G61YeAJ",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=16168403624845903924&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "16168403624845903924",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=16168403624845903924&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:NAgU1G61YeAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ANAgU1G61YeAJ%3Ascholar.google.com%2F&start=10",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=16168403624845903924&hl=en&as_sdt=5,44",
+                    "cluster_id": "16168403624845903924",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=16168403624845903924&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 15,
+            "title": "Approximate lasso model predictive control for resource constrained systems",
+            "result_id": "xkXKWL9DfWgJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9272000/",
+            "snippet": "LASSO MPC is a popular method for solving optimal control problems within a receding horizon. It is, however, challenging to deploy LASSO MPC on resource constrained systems …",
+            "publication_info": {
+                "summary": "Y Wu, JFC Mota, AM Wallace - 2020 Sensor Signal Processing …, 2020 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "Y Wu",
+                        "link": "https://scholar.google.com/citations?user=E232JgIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E232JgIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "E232JgIAAAAJ"
+                    },
+                    {
+                        "name": "JFC Mota",
+                        "link": "https://scholar.google.com/citations?user=lFjaYrAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lFjaYrAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "lFjaYrAAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "hw.ac.uk",
+                    "file_format": "PDF",
+                    "link": "https://researchportal.hw.ac.uk/files/43440702/SSPD2020v2.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xkXKWL9DfWgJ",
+                "cited_by": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cites=7529248641140803014&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "7529248641140803014",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7529248641140803014&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:xkXKWL9DfWgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AxkXKWL9DfWgJ%3Ascholar.google.com%2F&start=10",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=7529248641140803014&hl=en&as_sdt=5,44",
+                    "cluster_id": "7529248641140803014",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7529248641140803014&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 16,
+            "title": "A hardware generator for posit arithmetic and its FPGA prototyping",
+            "result_id": "l4fED9tCpV4J",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9601025/",
+            "snippet": "Posit arithmetic has better dynamic range and accuracy over the conventional IEEE-754 floating-point. In this paper, architectures for posit adder/subtractor and multiplier have been …",
+            "publication_info": {
+                "summary": "D Shekhawat, A Jangir… - 2021 25th International …, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "D Shekhawat",
+                        "link": "https://scholar.google.com/citations?user=PJE20pwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PJE20pwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "PJE20pwAAAAJ"
+                    },
+                    {
+                        "name": "A Jangir",
+                        "link": "https://scholar.google.com/citations?user=JKzcd8MAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JKzcd8MAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "JKzcd8MAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=l4fED9tCpV4J",
+                "cited_by": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cites=6819930719352293271&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "6819930719352293271",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6819930719352293271&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:l4fED9tCpV4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3Al4fED9tCpV4J%3Ascholar.google.com%2F&start=10"
+            }
+        },
+        {
+            "position": 17,
+            "title": "Adaptive Batch Size CGP: Improving Accuracy and Runtime for CGP Logic Optimization Flow",
+            "result_id": "uD_9cN1rFfkJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-29573-7_10",
+            "snippet": "With the recent advances in the Machine Learning field, alongside digital circuits becoming more complex each day, machine learning based methods are being used in error-tolerant …",
+            "publication_info": {
+                "summary": "BM Lima, N Sachetti, A Berndt, C Meinhardt… - … Conference on Genetic …, 2023 - Springer",
+                "authors": [
+                    {
+                        "name": "N Sachetti",
+                        "link": "https://scholar.google.com/citations?user=vpZ5W6gAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vpZ5W6gAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "vpZ5W6gAAAAJ"
+                    },
+                    {
+                        "name": "A Berndt",
+                        "link": "https://scholar.google.com/citations?user=Xi4a08YAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xi4a08YAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Xi4a08YAAAAJ"
+                    },
+                    {
+                        "name": "C Meinhardt",
+                        "link": "https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nSxMVPkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nSxMVPkAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=uD_9cN1rFfkJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:uD_9cN1rFfkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AuD_9cN1rFfkJ%3Ascholar.google.com%2F&start=10",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=17948370488782569400&hl=en&as_sdt=5,44",
+                    "cluster_id": "17948370488782569400",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17948370488782569400&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 18,
+            "title": "Evaluation and characterization of approximate arithmetic circuits",
+            "result_id": "CePY3NOL_QYJ",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6865",
+            "snippet": "With the end of Dennard's scale, processor designers have been looking for new technical alternatives so that approximate computing (AC) has managed to attract the attention of …",
+            "publication_info": {
+                "summary": "D Catelan, R Santos, L Duenha - … and Computation: Practice …, 2023 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "R Santos",
+                        "link": "https://scholar.google.com/citations?user=n7mxzTwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=n7mxzTwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "n7mxzTwAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CePY3NOL_QYJ",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=503712475394925321&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "503712475394925321",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=503712475394925321&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:CePY3NOL_QYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ACePY3NOL_QYJ%3Ascholar.google.com%2F&start=10"
+            }
+        },
+        {
+            "position": 19,
+            "title": "PHAc: P osit H ardware Ac celerator for Efficient Arithmetic Logic Operations",
+            "result_id": "ht6aQO9Qet8J",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-32180-1_6",
+            "snippet": "Arithmetic accelerators are always in demand for fast computations and logic operations. Here, posit arithmetic plays an important role; it outperforms the traditional IEEE-754 floating …",
+            "publication_info": {
+                "summary": "D Shekhawat, J Gandhi, M Santosh… - Conference on Next …, 2023 - Springer",
+                "authors": [
+                    {
+                        "name": "D Shekhawat",
+                        "link": "https://scholar.google.com/citations?user=PJE20pwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PJE20pwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "PJE20pwAAAAJ"
+                    },
+                    {
+                        "name": "J Gandhi",
+                        "link": "https://scholar.google.com/citations?user=DcUy7NUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DcUy7NUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "DcUy7NUAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ht6aQO9Qet8J",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ht6aQO9Qet8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3Aht6aQO9Qet8J%3Ascholar.google.com%2F&start=10",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=16103272406127926918&hl=en&as_sdt=5,44",
+                    "cluster_id": "16103272406127926918",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=16103272406127926918&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 20,
+            "title": "Cloud big data mining and analytics: Bringing greenness and acceleration in the cloud",
+            "result_id": "njm6hwGwALAJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-031-24628-9_22",
+            "snippet": "Big data is gaining overwhelming attention since the last decade. Almost all the fields of science and technology have experienced a considerable impact from it. The cloud …",
+            "publication_info": {
+                "summary": "HB Barua, KC Mondal - Machine Learning for Data Science Handbook …, 2023 - Springer",
+                "authors": [
+                    {
+                        "name": "HB Barua",
+                        "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "A_sYj7IAAAAJ"
+                    },
+                    {
+                        "name": "KC Mondal",
+                        "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nCjzFVwAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/2104.05765"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=njm6hwGwALAJ",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=12682330071293901214&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "12682330071293901214",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12682330071293901214&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:njm6hwGwALAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3Anjm6hwGwALAJ%3Ascholar.google.com%2F&start=20",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=12682330071293901214&hl=en&as_sdt=5,44",
+                    "cluster_id": "12682330071293901214",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12682330071293901214&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 21,
+            "title": "Design of energy-efficient gaussian filters by combining refactoring and approximate adders",
+            "result_id": "b5dOiWFshwUJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9401199/",
+            "snippet": "The Gaussian image filter is a compute-intensive approach to reduce undesirable artifacts and generally serves as a pre-processing technique for emerging applications related to …",
+            "publication_info": {
+                "summary": "M Monteiro, P Aquino, I Seidel… - … on Circuits and …, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "M Monteiro",
+                        "link": "https://scholar.google.com/citations?user=oEBJIbAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oEBJIbAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "oEBJIbAAAAAJ"
+                    },
+                    {
+                        "name": "I Seidel",
+                        "link": "https://scholar.google.com/citations?user=GPl4IocAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GPl4IocAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "GPl4IocAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=b5dOiWFshwUJ",
+                "cited_by": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cites=398406258216834927&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "398406258216834927",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=398406258216834927&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:b5dOiWFshwUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3Ab5dOiWFshwUJ%3Ascholar.google.com%2F&start=20"
+            }
+        },
+        {
+            "position": 22,
+            "title": "A review of data representation formats for intelligent computing with emphasis on POSITs",
+            "result_id": "J8UnCgyMoyUJ",
+            "link": "https://pubs.aip.org/aip/acp/article/2581/1/070003/2894202",
+            "snippet": "Data representation is the foundation in computing. Starting from Abacus to Super Computers the representation of data decides the complexity (in terms of processing time …",
+            "publication_info": {
+                "summary": "S Balasubramani, U Jagadeesan - AIP Conference Proceedings, 2023 - pubs.aip.org"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=J8UnCgyMoyUJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:J8UnCgyMoyUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AJ8UnCgyMoyUJ%3Ascholar.google.com%2F&start=20",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=2712165383945045287&hl=en&as_sdt=5,44",
+                    "cluster_id": "2712165383945045287",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2712165383945045287&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 23,
+            "title": "Probabilistic Error Reasoning on IoT Edge Devices",
+            "result_id": "2Qy8V-s68RwJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/10234318/",
+            "snippet": "Existing IoT applications are increasingly using sensors to collect real-world measurements to make decisions. Such measurements are inherently limited by the accuracy of ADC …",
+            "publication_info": {
+                "summary": "CQ Cao, Y Feng - 2023 IEEE International Conference on Edge …, 2023 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "Y Feng",
+                        "link": "https://scholar.google.com/citations?user=E7hCUPgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E7hCUPgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "E7hCUPgAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "yunhefeng.me",
+                    "file_format": "PDF",
+                    "link": "https://yunhefeng.me/material/Edge-2023.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2Qy8V-s68RwJ",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=2085512884912917721&hl=en&as_sdt=5,44",
+                    "cluster_id": "2085512884912917721",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2085512884912917721&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 24,
+            "title": "Efficient Accelerator Design in High-Level Synthesis Using Approximate Logic Components",
+            "result_id": "FvSQWRTHqgwJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/10238558/",
+            "snippet": "FPGA-based architectures have emerged as a versatile acceleration solution for various applications, aided by High-Level Synthesis (HLS) tools. For applications with some level of …",
+            "publication_info": {
+                "summary": "TDS Almeida, L Wanner - 2023 IEEE Computer Society Annual …, 2023 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "L Wanner",
+                        "link": "https://scholar.google.com/citations?user=6uQfS5kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6uQfS5kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "6uQfS5kAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FvSQWRTHqgwJ",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=912760764711891990&hl=en&as_sdt=5,44",
+                    "cluster_id": "912760764711891990",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=912760764711891990&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 25,
+            "title": "Adaptive Batch Size CGP: Improving Accuracy and Runtime for CGP Logic Optimization Flow",
+            "result_id": "K4sETJBajNkJ",
+            "link": "https://books.google.com/books?hl=en&lr=&id=jUK2EAAAQBAJ&oi=fnd&pg=PA149&ots=AqCzoPYaeS&sig=a8ed5hMErJv0V5pxVHngxvRzFME",
+            "snippet": "With the recent advances in the Machine Learning field, alongside digital circuits becoming more complex each day, machine learning based methods are being used in error-tolerant …",
+            "publication_info": {
+                "summary": "C Meinhardt, JT Carvalho - … , EuroGP 2023, Held as Part of …, 2023 - books.google.com",
+                "authors": [
+                    {
+                        "name": "C Meinhardt",
+                        "link": "https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nSxMVPkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nSxMVPkAAAAJ"
+                    },
+                    {
+                        "name": "JT Carvalho",
+                        "link": "https://scholar.google.com/citations?user=K9q0a8oAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K9q0a8oAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "K9q0a8oAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=K4sETJBajNkJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:K4sETJBajNkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AK4sETJBajNkJ%3Ascholar.google.com%2F&start=20"
+            }
+        },
+        {
+            "position": 26,
+            "title": "A fine-grained methodology for accuracy-configurable and energy-efficient Gaussian filters design",
+            "result_id": "vSecUI-ItxEJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9189912/",
+            "snippet": "Configurable architectures are alternatives to attend the quality and energy requirements of image and video processing dynamically. Together with approximate computing techniques …",
+            "publication_info": {
+                "summary": "TA Borges, LB Soares… - 2020 33rd Symposium on …, 2020 - ieeexplore.ieee.org"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vSecUI-ItxEJ",
+                "cited_by": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cites=1276639168496936893&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "1276639168496936893",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=1276639168496936893&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:vSecUI-ItxEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AvSecUI-ItxEJ%3Ascholar.google.com%2F&start=20",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=1276639168496936893&hl=en&as_sdt=5,44",
+                    "cluster_id": "1276639168496936893",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=1276639168496936893&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 27,
+            "title": "Tiansuan Constellation: Intelligent Software-Defined Microsatellite with Orbital Attention for Sustainable Development Goals",
+            "result_id": "CQ2fXL039icJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-981-99-2233-8_1",
+            "snippet": "Abstract Space flight, which we anticipate as SpaceX does, has the potential to address the challenge of human life in the near future. The first stage towards interstellar travel is to …",
+            "publication_info": {
+                "summary": "Y Tang - International Conference on Big Data Intelligence and …, 2022 - Springer",
+                "authors": [
+                    {
+                        "name": "Y Tang",
+                        "link": "https://scholar.google.com/citations?user=rTBnsBcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rTBnsBcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "rTBnsBcAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CQ2fXL039icJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:CQ2fXL039icJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ACQ2fXL039icJ%3Ascholar.google.com%2F&start=20",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=2879550298192284937&hl=en&as_sdt=5,44",
+                    "cluster_id": "2879550298192284937",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2879550298192284937&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 28,
+            "title": "Exploring Approximate Comparator Circuits on Power Efficient Design of Decision Trees",
+            "result_id": "025MdM8DpqAJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9939599/",
+            "snippet": "In recent years, Approximate Computing has been gaining space as a technique for tackling energy requirements in error-resilient applications, while the usage of Machine Learning …",
+            "publication_info": {
+                "summary": "PA Silva, M Grellert, C Meinhardt - 2022 IFIP/IEEE 30th …, 2022 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "M Grellert",
+                        "link": "https://scholar.google.com/citations?user=V9ZSEjoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V9ZSEjoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "V9ZSEjoAAAAJ"
+                    },
+                    {
+                        "name": "C Meinhardt",
+                        "link": "https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nSxMVPkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nSxMVPkAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=025MdM8DpqAJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:025MdM8DpqAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3A025MdM8DpqAJ%3Ascholar.google.com%2F&start=20"
+            }
+        },
+        {
+            "position": 29,
+            "title": "Approximation Workflow for Energy-Efficient Comparators in Decision Tree Applications",
+            "result_id": "YG6derAH9YsJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9939637/",
+            "snippet": "The increasing use of Machine Learning applications has caused a high demand for design techniques targeting the trade-off between energy consumption and accuracy in inference …",
+            "publication_info": {
+                "summary": "P Silva, M Grellert, C Meinhardt - 2022 IFIP/IEEE 30th …, 2022 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "M Grellert",
+                        "link": "https://scholar.google.com/citations?user=V9ZSEjoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V9ZSEjoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "V9ZSEjoAAAAJ"
+                    },
+                    {
+                        "name": "C Meinhardt",
+                        "link": "https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nSxMVPkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nSxMVPkAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YG6derAH9YsJ",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=10084975395118870112&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "10084975395118870112",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10084975395118870112&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:YG6derAH9YsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AYG6derAH9YsJ%3Ascholar.google.com%2F&start=20"
+            }
+        },
+        {
+            "position": 30,
+            "title": "Approximate Multipliers Based on Low-Power 4: 2 Compressors for Error-Tolerant Applications",
+            "result_id": "FYyTi_hu-7AJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9990566/",
+            "snippet": "Energy-efficient and high-performance general-purpose compute engines, as well as application specific integrated circuits, are highly demanded to facilitate the development of …",
+            "publication_info": {
+                "summary": "MA Rizwan, H Waris, MY Qadri - 2022 19th International …, 2022 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "H Waris",
+                        "link": "https://scholar.google.com/citations?user=j0w8WksAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j0w8WksAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "j0w8WksAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FYyTi_hu-7AJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:FYyTi_hu-7AJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AFYyTi_hu-7AJ%3Ascholar.google.com%2F&start=30"
+            }
+        },
+        {
+            "position": 31,
+            "title": "Accelerating Homomorphic Encryption using Approximate Computing Techniques.",
+            "result_id": "Km7VKhvcNFkJ",
+            "type": "Pdf",
+            "link": "https://www.scitepress.org/PublishedPapers/2020/98288/98288.pdf",
+            "snippet": "This research proposes approximate computing techniques to accelerate homomorphic encryption (HE). In particular, the CKKS encryption scheme for approximate numbers is …",
+            "publication_info": {
+                "summary": "S Khanna, C Rafferty - ICETE (2), 2020 - scitepress.org",
+                "authors": [
+                    {
+                        "name": "C Rafferty",
+                        "link": "https://scholar.google.com/citations?user=gVr2JqoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gVr2JqoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "gVr2JqoAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "scitepress.org",
+                    "file_format": "PDF",
+                    "link": "https://www.scitepress.org/PublishedPapers/2020/98288/98288.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Km7VKhvcNFkJ",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=6428004577405398570&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "6428004577405398570",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6428004577405398570&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Km7VKhvcNFkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AKm7VKhvcNFkJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=6428004577405398570&hl=en&as_sdt=5,44",
+                    "cluster_id": "6428004577405398570",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=6428004577405398570&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Km7VKhvcNFkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 32,
+            "title": "Task Offloading of Intelligent Building Based on CO–HHO Algorithm in Edge Computing",
+            "result_id": "v8RD5735lIgJ",
+            "link": "https://link.springer.com/article/10.1007/s42835-022-01108-0",
+            "snippet": "With the rapid development of intelligent devices, the intelligence of buildings is becoming more and more obvious, which leads to the rapid growth of data generated by building …",
+            "publication_info": {
+                "summary": "L Yi, X Gao, Z Li, X Feng, J Huang, Q Liu - Journal of Electrical …, 2022 - Springer"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=v8RD5735lIgJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:v8RD5735lIgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3Av8RD5735lIgJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=9841765679735489727&hl=en&as_sdt=5,44",
+                    "cluster_id": "9841765679735489727",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9841765679735489727&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 33,
+            "title": "Hardware Schemes for Autonomous Navigation of Cooperative-type Multi-robot in Indoor Environment",
+            "result_id": "jYUPQWSkajwJ",
+            "type": "Html",
+            "link": "https://link.springer.com/article/10.1007/s40031-021-00659-6",
+            "snippet": "This study proposes about the autonomous navigation of a multi-robot for transportation in indoor environments. This transportation is integrated with three foldings of VLSI …",
+            "publication_info": {
+                "summary": "G Divya Vani, SR Karumuri, MC Chinnaiah - Journal of The Institution of …, 2022 - Springer",
+                "authors": [
+                    {
+                        "name": "G Divya Vani",
+                        "link": "https://scholar.google.com/citations?user=81zhmLYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=81zhmLYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "81zhmLYAAAAJ"
+                    },
+                    {
+                        "name": "MC Chinnaiah",
+                        "link": "https://scholar.google.com/citations?user=Iw6qBlMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Iw6qBlMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Iw6qBlMAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "springer.com",
+                    "file_format": "HTML",
+                    "link": "https://link.springer.com/article/10.1007/s40031-021-00659-6"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jYUPQWSkajwJ",
+                "html_version": "https://link.springer.com/article/10.1007/s40031-021-00659-6",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:jYUPQWSkajwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AjYUPQWSkajwJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=4353472740302226829&hl=en&as_sdt=5,44",
+                    "cluster_id": "4353472740302226829",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=4353472740302226829&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 34,
+            "title": "Parameter optimization of approximate image processing algorithms in FPGAs",
+            "result_id": "qN0IshDFwRQJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9355898/",
+            "snippet": "Approximate computing has been proposed as a paradigm for contexts where resilience of applications to errors can be exploited, eg allowing to trade quality off for power/energy or …",
+            "publication_info": {
+                "summary": "NAV Doan, M Manuel, S Conrady… - … on Computing and …, 2020 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "NAV Doan",
+                        "link": "https://scholar.google.com/citations?user=P_dYs6UAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=P_dYs6UAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "P_dYs6UAAAAJ"
+                    },
+                    {
+                        "name": "M Manuel",
+                        "link": "https://scholar.google.com/citations?user=1ikvaW0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ikvaW0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1ikvaW0AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qN0IshDFwRQJ",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=1495693226760789416&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "1495693226760789416",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=1495693226760789416&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:qN0IshDFwRQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AqN0IshDFwRQJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=1495693226760789416&hl=en&as_sdt=5,44",
+                    "cluster_id": "1495693226760789416",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=1495693226760789416&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 35,
+            "title": "SASHA: A Shift-Add Segmented Hybrid Approximated Multiplier for Image Processing",
+            "result_id": "M7Ue0plybO0J",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9806097/",
+            "snippet": "In this paper, a new shift-add segmented hybrid approximated (SASHA) multiplier for image processing applications is proposed. The new multiplier uses segmentation to achieve high …",
+            "publication_info": {
+                "summary": "SA Rehman, Z Jeffrey, Y Sun… - … on Intelligent Systems …, 2022 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "Y Sun",
+                        "link": "https://scholar.google.com/citations?user=cv8oozQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cv8oozQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "cv8oozQAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M7Ue0plybO0J",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:M7Ue0plybO0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AM7Ue0plybO0J%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=17108175089454462259&hl=en&as_sdt=5,44",
+                    "cluster_id": "17108175089454462259",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17108175089454462259&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 36,
+            "title": "Ultra-High Definition AV1 FME Interpolation Architectures Exploring Approximate Computing",
+            "result_id": "KTz5YWG8EqMJ",
+            "link": "https://jics.org.br/ojs/index.php/JICS/article/view/558",
+            "snippet": "Modern video encoders like the AOMedia Video 1 (AV1) implement several complex tools to allow the required high level of compression efficiency. The Fractional Motion Estimation …",
+            "publication_info": {
+                "summary": "W Kolodziejski, R Domanski, M Porto, B Zatt… - Journal of Integrated …, 2022 - jics.org.br",
+                "authors": [
+                    {
+                        "name": "R Domanski",
+                        "link": "https://scholar.google.com/citations?user=QwVcs1cAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QwVcs1cAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "QwVcs1cAAAAJ"
+                    },
+                    {
+                        "name": "M Porto",
+                        "link": "https://scholar.google.com/citations?user=9C5pj6YAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9C5pj6YAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "9C5pj6YAAAAJ"
+                    },
+                    {
+                        "name": "B Zatt",
+                        "link": "https://scholar.google.com/citations?user=9RZOnYgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9RZOnYgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "9RZOnYgAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "jics.org.br",
+                    "file_format": "PDF",
+                    "link": "https://jics.org.br/ojs/index.php/JICS/article/download/558/407"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KTz5YWG8EqMJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:KTz5YWG8EqMJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AKTz5YWG8EqMJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=11750661504204618793&hl=en&as_sdt=5,44",
+                    "cluster_id": "11750661504204618793",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=11750661504204618793&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:KTz5YWG8EqMJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 37,
+            "title": "Approximate arithmetic for modern neural networks and FPGAs",
+            "result_id": "8mdSJ1GyoKgJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9797141/",
+            "snippet": "Approximate arithmetic is a very important approach for implementing neural networks in embedded hardware. The requirements of real-time applications with respect to the size of …",
+            "publication_info": {
+                "summary": "M Skrbek, P Kubalík - 2022 11th Mediterranean Conference on …, 2022 - ieeexplore.ieee.org"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=8mdSJ1GyoKgJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:8mdSJ1GyoKgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3A8mdSJ1GyoKgJ%3Ascholar.google.com%2F&start=30"
+            }
+        },
+        {
+            "position": 38,
+            "title": "Approximate Computing for Robotic path planning--Experimentation, Case Study and Practical Implications",
+            "result_id": "qMie88dBfYwJ",
+            "link": "https://arxiv.org/abs/2104.05773",
+            "snippet": "Approximate computing is a computation domain which can be used to trade time and energy with quality and therefore is useful in embedded systems. Energy is the prime …",
+            "publication_info": {
+                "summary": "HB Barua - arXiv preprint arXiv:2104.05773, 2021 - arxiv.org",
+                "authors": [
+                    {
+                        "name": "HB Barua",
+                        "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "A_sYj7IAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/2104.05773"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qMie88dBfYwJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:qMie88dBfYwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AqMie88dBfYwJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=10123319864440309928&hl=en&as_sdt=5,44",
+                    "cluster_id": "10123319864440309928",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=10123319864440309928&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qMie88dBfYwJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 39,
+            "title": "Multi-UAV Situational Awareness via Distributed and Approximate Computing Techniques",
+            "result_id": "Te1BnuvfiQ8J",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9356011/",
+            "snippet": "Recently, much progress has been made in using Neural Networks (NNs) for important yet narrowly focused tasks such as image classification (eg, VGG-Net, ResNet), playing …",
+            "publication_info": {
+                "summary": "K Anjum, V Sadhu, D Pompili - … on Mobile Ad Hoc and Sensor …, 2020 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "K Anjum",
+                        "link": "https://scholar.google.com/citations?user=qZOOGK4AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qZOOGK4AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qZOOGK4AAAAJ"
+                    },
+                    {
+                        "name": "V Sadhu",
+                        "link": "https://scholar.google.com/citations?user=K5GcTPYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K5GcTPYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "K5GcTPYAAAAJ"
+                    },
+                    {
+                        "name": "D Pompili",
+                        "link": "https://scholar.google.com/citations?user=1UmLwDMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1UmLwDMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1UmLwDMAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Te1BnuvfiQ8J",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Te1BnuvfiQ8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ATe1BnuvfiQ8J%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=1119672185443708237&hl=en&as_sdt=5,44",
+                    "cluster_id": "1119672185443708237",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=1119672185443708237&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 40,
+            "title": "A study of approximation in a collaborative multi-agent system",
+            "result_id": "0LU2W5Dgk2UJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3369740.3373015",
+            "snippet": "The effect of approximation has been well studied in stand-alone systems. However, the problem of approximation in a collaborative system has not been studied, to the best of our …",
+            "publication_info": {
+                "summary": "HB Barua, HS Paul, C Sarkar, A Banerjee - Proceedings of the 21st …, 2020 - dl.acm.org",
+                "authors": [
+                    {
+                        "name": "HB Barua",
+                        "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "A_sYj7IAAAAJ"
+                    },
+                    {
+                        "name": "HS Paul",
+                        "link": "https://scholar.google.com/citations?user=KFC4sFcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KFC4sFcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "KFC4sFcAAAAJ"
+                    },
+                    {
+                        "name": "C Sarkar",
+                        "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "MMOS7xsAAAAJ"
+                    },
+                    {
+                        "name": "A Banerjee",
+                        "link": "https://scholar.google.com/citations?user=rGFo1TQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rGFo1TQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "rGFo1TQAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "researchgate.net",
+                    "file_format": "PDF",
+                    "link": "https://www.researchgate.net/profile/Hrishav-Barua/publication/337210372_A_study_of_approximation_in_a_collaborative_multi-agent_system/links/5dcbba08458515143506db51/A-study-of-approximation-in-a-collaborative-multi-agent-system.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0LU2W5Dgk2UJ",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=7319440730017412560&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "7319440730017412560",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7319440730017412560&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:0LU2W5Dgk2UJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3A0LU2W5Dgk2UJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=7319440730017412560&hl=en&as_sdt=5,44",
+                    "cluster_id": "7319440730017412560",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7319440730017412560&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 41,
+            "title": "A High-throughput pose selection method for extreme scale virtual screening in drug discovery",
+            "result_id": "vMAjI0me4LEJ",
+            "link": "https://www.politesi.polimi.it/handle/10589/187431",
+            "snippet": "Abstract in italiano La capacità della razza umana nel curare le malattie è uno dei motivi che ha permesso alla nostra specie di aumentare la sua aspettativa di vita, e di conseguenza …",
+            "publication_info": {
+                "summary": "G Accordi - 2022 - politesi.polimi.it",
+                "authors": [
+                    {
+                        "name": "G Accordi",
+                        "link": "https://scholar.google.com/citations?user=Zfe2wNMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Zfe2wNMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Zfe2wNMAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "polimi.it",
+                    "file_format": "PDF",
+                    "link": "https://www.politesi.polimi.it/bitstream/10589/187431/8/2022_04_Accordi_Gianmarco_Thesis.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vMAjI0me4LEJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:vMAjI0me4LEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AvMAjI0me4LEJ%3Ascholar.google.com%2F&start=40",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:vMAjI0me4LEJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 42,
+            "title": "From artificial cells to deep learning. An evolutionary story.",
+            "result_id": "NhgEHIbsY-gJ",
+            "link": "https://oa.upm.es/id/eprint/66864",
+            "snippet": "From Artificial Cells to Deep Learning Page 1 From Artificial Cells to Deep Learning An evolutionary story Lecture Notes Daniel Manrique Departamento de Inteligencia Artificial …",
+            "publication_info": {
+                "summary": "D Manrique Gamo - 2021 - oa.upm.es"
+            },
+            "resources": [
+                {
+                    "title": "upm.es",
+                    "file_format": "PDF",
+                    "link": "https://oa.upm.es/66864/1/From_Artificial_Cells_to_Deep_Learning__Lecture_Notes.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NhgEHIbsY-gJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:NhgEHIbsY-gJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ANhgEHIbsY-gJ%3Ascholar.google.com%2F&start=40",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:NhgEHIbsY-gJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 43,
+            "title": "Adaptive Batch Size CGP: improving CGP logic optimization flow",
+            "result_id": "sUudyGxtPFcJ",
+            "link": "https://repositorio.ufsc.br/handle/123456789/248651",
+            "snippet": "The main goal of logic synthesis of integrated circuits is to create a detailed logic-level model of a designers' abstraction of a circuit. It allows automation in the production of logic …",
+            "publication_info": {
+                "summary": "BM Lima - 2023 - repositorio.ufsc.br"
+            },
+            "resources": [
+                {
+                    "title": "ufsc.br",
+                    "file_format": "PDF",
+                    "link": "https://repositorio.ufsc.br/bitstream/handle/123456789/248651/TCC.pdf?sequence=1"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sUudyGxtPFcJ",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:sUudyGxtPFcJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 44,
+            "title": "International Journal of Networking and Computing–www. ijnc. org, ISSN 2185-2847 Volume 11, Number 2, pages 438–462, July 2021",
+            "result_id": "YqSduFxAM5QJ",
+            "type": "Pdf",
+            "link": "https://www.academia.edu/download/82654234/_pdf.pdf",
+            "snippet": "In recent years, technological advancements in computer hardware systems have been lagging behind the demand for increased computational power, especially in application …",
+            "publication_info": {
+                "summary": "M Manuel, NAV Doan, W Stechele, A Kreddig… - academia.edu",
+                "authors": [
+                    {
+                        "name": "M Manuel",
+                        "link": "https://scholar.google.com/citations?user=1ikvaW0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ikvaW0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1ikvaW0AAAAJ"
+                    },
+                    {
+                        "name": "W Stechele",
+                        "link": "https://scholar.google.com/citations?user=h7erxnkAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h7erxnkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "h7erxnkAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "academia.edu",
+                    "file_format": "PDF",
+                    "link": "https://www.academia.edu/download/82654234/_pdf.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YqSduFxAM5QJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:YqSduFxAM5QJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AYqSduFxAM5QJ%3Ascholar.google.com%2F&start=40",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:YqSduFxAM5QJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 45,
+            "title": "Aging Aware Approximation to Reduce Power Consumption",
+            "result_id": "d6prbC25CXwJ",
+            "link": "https://search.proquest.com/openview/5efe1decb0a6d425647a1e3018fddf4d/1?pq-origsite=gscholar&cbl=18750&diss=y",
+            "snippet": "Over the past decade, there has been an increased desire to produce low-power consumption devices. A popular approach to this problem is the use of approximate …",
+            "publication_info": {
+                "summary": "M Yeh - 2021 - search.proquest.com"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=d6prbC25CXwJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:d6prbC25CXwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3Ad6prbC25CXwJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=8937878540237122167&hl=en&as_sdt=5,44",
+                    "cluster_id": "8937878540237122167",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8937878540237122167&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 46,
+            "title": "Identification of Approximable Program Components Using Edge Profiling",
+            "result_id": "wjp-qUoXnAgJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-981-15-7031-5_71",
+            "snippet": "Approximate computing is gaining popularity day-by-day due to its growing application area. One of the areas where it is required to give attention is program analysis techniques …",
+            "publication_info": {
+                "summary": "P Arundhati, SK Pani - … Systems and Intelligent Computing: Proceedings of …, 2020 - Springer",
+                "authors": [
+                    {
+                        "name": "P Arundhati",
+                        "link": "https://scholar.google.com/citations?user=exfF91wAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=exfF91wAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "exfF91wAAAAJ"
+                    },
+                    {
+                        "name": "SK Pani",
+                        "link": "https://scholar.google.com/citations?user=5n_2u80AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5n_2u80AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "5n_2u80AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wjp-qUoXnAgJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:wjp-qUoXnAgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3Awjp-qUoXnAgJ%3Ascholar.google.com%2F&start=40"
+            }
+        },
+        {
+            "position": 47,
+            "title": "Towards a Next Generation Computing Paradigm: Approximate Computing in Robotics Systems and Environment-Experimentation, Case Study and Practical …",
+            "result_id": "Qe_FubwOXfcJ",
+            "type": "Pdf",
+            "link": "https://ask.qcloudimg.com/draft/8128510/htnnwrs1yf.pdf",
+            "snippet": "Approximate computing is a computation domain which can be used to trade time and energy with quality and therefore is useful in embedded systems. Energy is the prime …",
+            "publication_info": {
+                "summary": "HB Barua - arXiv preprint arXiv:2104.05773, 2021 - ask.qcloudimg.com",
+                "authors": [
+                    {
+                        "name": "HB Barua",
+                        "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "A_sYj7IAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "qcloudimg.com",
+                    "file_format": "PDF",
+                    "link": "https://ask.qcloudimg.com/draft/8128510/htnnwrs1yf.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Qe_FubwOXfcJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Qe_FubwOXfcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AQe_FubwOXfcJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=17824419103935688513&hl=en&as_sdt=5,44",
+                    "cluster_id": "17824419103935688513",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17824419103935688513&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Qe_FubwOXfcJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 48,
+            "title": "Rushing the CGP Logic Optimization Flow",
+            "result_id": "_LxDrSHS9o4J",
+            "type": "Pdf",
+            "link": "https://sbmicro.org.br/sforum-eventos/sforum2022/Rushing%20the%20CGP%20Logic%20Optimization%20Flow.pdf",
+            "snippet": "With Moore's law slowing down, the process of logic synthesis is struggling to maintain the same technological growth rate. In this scenario, alternative methods started to appear. With …",
+            "publication_info": {
+                "summary": "BM Lima, N Sachetti, A Berndt, C Meinhardt… - sbmicro.org.br",
+                "authors": [
+                    {
+                        "name": "N Sachetti",
+                        "link": "https://scholar.google.com/citations?user=vpZ5W6gAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vpZ5W6gAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "vpZ5W6gAAAAJ"
+                    },
+                    {
+                        "name": "A Berndt",
+                        "link": "https://scholar.google.com/citations?user=Xi4a08YAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xi4a08YAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Xi4a08YAAAAJ"
+                    },
+                    {
+                        "name": "C Meinhardt",
+                        "link": "https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nSxMVPkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "nSxMVPkAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "sbmicro.org.br",
+                    "file_format": "PDF",
+                    "link": "https://sbmicro.org.br/sforum-eventos/sforum2022/Rushing%20the%20CGP%20Logic%20Optimization%20Flow.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_LxDrSHS9o4J",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:_LxDrSHS9o4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3A_LxDrSHS9o4J%3Ascholar.google.com%2F&start=40",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:_LxDrSHS9o4J:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 49,
+            "title": "Compactly Numbering the Approximately Most Executing Path for k-iteration",
+            "result_id": "BGbKrMid3kAJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9171211/",
+            "snippet": "In the present day scenario, the computation is demanding reduced energy with some tolerable loss in quality. Approximate computing provides this feature. The approximation …",
+            "publication_info": {
+                "summary": "P Arundhati, SK Pani - 2020 Fourth International Conference …, 2020 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "P Arundhati",
+                        "link": "https://scholar.google.com/citations?user=exfF91wAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=exfF91wAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "exfF91wAAAAJ"
+                    },
+                    {
+                        "name": "SK Pani",
+                        "link": "https://scholar.google.com/citations?user=5n_2u80AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5n_2u80AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "5n_2u80AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BGbKrMid3kAJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:BGbKrMid3kAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3ABGbKrMid3kAJ%3Ascholar.google.com%2F&start=40"
+            }
+        },
+        {
+            "position": 50,
+            "title": "Editorial (Português): uma breve história do hardware, seus desafios, e impacto sobre o consumo de energia",
+            "result_id": "Aj--C0xn4-oJ",
+            "link": "https://sistemas.uft.edu.br/periodicos/index.php/AJCEAM/article/view/14997",
+            "snippet": "Este artigo representa a opinião do autor sobre o campo da arquitetura de computadores e os desafios futuros. Este trabalho tenta estabelecer como a computação se tornou tão …",
+            "publication_info": {
+                "summary": "T da Silva Almeida - Academic Journal on Computing …, 2022 - sistemas.uft.edu.br",
+                "authors": [
+                    {
+                        "name": "T da Silva Almeida",
+                        "link": "https://scholar.google.com/citations?user=PMY7HeAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PMY7HeAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "PMY7HeAAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "uft.edu.br",
+                    "file_format": "PDF",
+                    "link": "https://sistemas.uft.edu.br/periodicos/index.php/AJCEAM/article/download/14997/20477"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Aj--C0xn4-oJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Aj--C0xn4-oJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AAj--C0xn4-oJ%3Ascholar.google.com%2F&start=50",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=16925485400900648706&hl=en&as_sdt=5,44",
+                    "cluster_id": "16925485400900648706",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=16925485400900648706&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Aj--C0xn4-oJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 51,
+            "title": "Plataforma colaborativa, elástica, de bajo costo y consumo basada en recursos de la Nube, contenedores y móviles para HPC",
+            "result_id": "txvMT3XHkM0J",
+            "type": "Pdf",
+            "link": "https://scholar.archive.org/work/lxqfvn7f7bac5dns5lcgotoria/access/wayback/http://www.iadisportal.org/components/com_booklibrary/ebooks/202015L006.pdf",
+            "snippet": "RESUMEN A la hora de resolver tareas de cómputo intensivo de manera distribuida y paralela, habitualmente se utilizan recursos de hardware (CPU/GPU) e infraestructura (Grid …",
+            "publication_info": {
+                "summary": "D Petrocelli, AE De Giusti… - 7ª Conferencia Ibero …, 2020 - scholar.archive.org",
+                "authors": [
+                    {
+                        "name": "AE De Giusti",
+                        "link": "https://scholar.google.com/citations?user=W0nrWrEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=W0nrWrEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "W0nrWrEAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "archive.org",
+                    "file_format": "PDF",
+                    "link": "https://scholar.archive.org/work/lxqfvn7f7bac5dns5lcgotoria/access/wayback/http://www.iadisportal.org/components/com_booklibrary/ebooks/202015L006.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=txvMT3XHkM0J",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=14812558481085438903&as_sdt=5,44&sciodt=5,44&hl=en",
+                    "cites_id": "14812558481085438903",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14812558481085438903&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:txvMT3XHkM0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AtxvMT3XHkM0J%3Ascholar.google.com%2F&start=50",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:txvMT3XHkM0J:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 52,
+            "title": "Information processing apparatus, non-transitory computer-readable storage medium for storing information processing program, and information processing method",
+            "result_id": "qwVladr8TfIJ",
+            "link": "https://patents.google.com/patent/US11449360B2/en",
+            "snippet": "An information processing apparatus, a non-transitory computer-readable storage medium for storing an information processing program, and an information processing method are …",
+            "publication_info": {
+                "summary": "M Arai - US Patent 11,449,360, 2022 - Google Patents"
+            },
+            "resources": [
+                {
+                    "title": "googleapis.com",
+                    "file_format": "PDF",
+                    "link": "https://patentimages.storage.googleapis.com/c0/68/c6/37b64fc8d0f4e5/US11449360.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qwVladr8TfIJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:qwVladr8TfIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3AqwVladr8TfIJ%3Ascholar.google.com%2F&start=50",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=17459889345386579371&hl=en&as_sdt=5,44",
+                    "cluster_id": "17459889345386579371",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17459889345386579371&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qwVladr8TfIJ:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 53,
+            "title": "Διάδοση σφαλμάτων λόγω προσεγγιστικού υπολογισμού σε pipelines λογισμικού",
+            "result_id": "-sJ8S4wycN4J",
+            "type": "Pdf",
+            "link": "https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/56593/23193.pdf?sequence=1",
+            "snippet": "My diploma thesis explores the area of Approximate Computing (AC) and, in particular, attempts to model the propagation of errors that arise from approximation techniques, mainly …",
+            "publication_info": {
+                "summary": "ΔΘ Σαμακοβλής - 2021 - ir.lib.uth.gr"
+            },
+            "resources": [
+                {
+                    "title": "uth.gr",
+                    "file_format": "PDF",
+                    "link": "https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/56593/23193.pdf?sequence=1"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-sJ8S4wycN4J",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:-sJ8S4wycN4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14136534331017924556&engine=google_scholar&hl=en&q=related%3A-sJ8S4wycN4J%3Ascholar.google.com%2F&start=50",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:-sJ8S4wycN4J:scholar.google.com/&hl=en&as_sdt=5,44"
+            }
+        },
+        {
+            "position": 54,
+            "title": "태양 에너지 수집형 엣지 AIoT 환경에서 엣지 장치의 에너지를 고려한 효율적인 분산 학습 방법",
+            "result_id": "DYVKT2NgeDwJ",
+            "link": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11495800",
+            "snippet": "태양 에너지 수집형 IoT 장치는 태양 에너지를 주기적으로 수집하여 에너지를 공급할 수 있으므로 배터리 기반 IoT 장치의 에너지 제한 문제를 근본적으로 해결할 수 있으나, 에너지 …",
+            "publication_info": {
+                "summary": "유연태， 윤익준， 노동건 - 정보과학회논문지, 2023 - dbpia.co.kr"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DYVKT2NgeDwJ",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=4357338619129267469&hl=en&as_sdt=5,44",
+                    "cluster_id": "4357338619129267469",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=4357338619129267469&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 55,
+            "title": "Approximate Computing: Hardware and Software Techniques, Tools and Their Applications",
+            "result_id": "3LmaRBtdD7UJ",
+            "type": "Citation",
+            "link": "https://www.worldscientific.com/doi/abs/10.1142/S0218126624300010",
+            "snippet": "The limitations of scaling in CMOS technology pose challenges in meeting the requirements of future applications. To address these challenges, researchers are exploring various …",
+            "publication_info": {
+                "summary": "M Raza, S Javed, M Kazmi, A Aziz… - Journal of Circuits …, 2023 - World Scientific",
+                "authors": [
+                    {
+                        "name": "M Raza",
+                        "link": "https://scholar.google.com/citations?user=mM1qWe0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mM1qWe0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "mM1qWe0AAAAJ"
+                    },
+                    {
+                        "name": "M Kazmi",
+                        "link": "https://scholar.google.com/citations?user=VbBLVtgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VbBLVtgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "VbBLVtgAAAAJ"
+                    },
+                    {
+                        "name": "A Aziz",
+                        "link": "https://scholar.google.com/citations?user=WpXyuXEAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WpXyuXEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "WpXyuXEAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=3LmaRBtdD7UJ"
+            }
+        }
+    ]
+}

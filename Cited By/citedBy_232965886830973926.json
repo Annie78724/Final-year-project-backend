@@ -1,0 +1,1216 @@
+{
+  "search_metadata": {
+    "id": "654356075c56061730b2d16f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a2abf59f2b77b56a/654356075c56061730b2d16f.json",
+    "created_at": "2023-11-02 07:55:51 UTC",
+    "processed_at": "2023-11-02 07:55:51 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=232965886830973926&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/a2abf59f2b77b56a/654356075c56061730b2d16f.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "232965886830973926",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 30,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=232965886830973926&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Network for AI and AI for network: Challenges and opportunities for learning-oriented networks",
+      "result_id": "ctwu8u18wfYJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9537935/",
+      "snippet": "The “data pipe” model used by the existing Internet protocol stack is no longer ideal for many emerging applications, due to multimedia, multicast, mobility, machine learning, and network …",
+      "publication_info": {
+        "summary": "J Pan, L Cai, S Yan, XS Shen - IEEE Network, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "J Pan",
+            "link": "https://scholar.google.com/citations?user=mlUYzYcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mlUYzYcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mlUYzYcAAAAJ"
+          },
+          {
+            "name": "L Cai",
+            "link": "https://scholar.google.com/citations?user=KhHlHyEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KhHlHyEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KhHlHyEAAAAJ"
+          },
+          {
+            "name": "XS Shen",
+            "link": "https://scholar.google.com/citations?user=Bjl3GwoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Bjl3GwoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Bjl3GwoAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "uvic.ca",
+          "file_format": "PDF",
+          "link": "https://www.ece.uvic.ca/~cai/network21-ainet.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ctwu8u18wfYJ",
+        "cited_by": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cites=17780630165247679602&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "17780630165247679602",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=17780630165247679602&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ctwu8u18wfYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3Actwu8u18wfYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17780630165247679602&hl=en&as_sdt=5,44",
+          "cluster_id": "17780630165247679602",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17780630165247679602&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Sentiment analysis of reviews in natural language: Roman Urdu as a case study",
+      "result_id": "YdrXUCeYMyoJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9714200/",
+      "snippet": "Opinion Mining from user reviews is an emerging field. Sentiment Analysis of Natural Language text helps us in finding the opinion of the customers. These reviews can be in any …",
+      "publication_info": {
+        "summary": "MA Qureshi, M Asif, MF Hassan, A Abid, A Kamal… - IEEE …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "MA Qureshi",
+            "link": "https://scholar.google.com/citations?user=JzffwiEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JzffwiEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JzffwiEAAAAJ"
+          },
+          {
+            "name": "M Asif",
+            "link": "https://scholar.google.com/citations?user=xb3_zsQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xb3_zsQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xb3_zsQAAAAJ"
+          },
+          {
+            "name": "MF Hassan",
+            "link": "https://scholar.google.com/citations?user=znnv_CMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=znnv_CMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "znnv_CMAAAAJ"
+          },
+          {
+            "name": "A Kamal",
+            "link": "https://scholar.google.com/citations?user=3gOkM6UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3gOkM6UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3gOkM6UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09714200.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YdrXUCeYMyoJ",
+        "cited_by": {
+          "total": 21,
+          "link": "https://scholar.google.com/scholar?cites=3040941468032686689&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "3040941468032686689",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3040941468032686689&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:YdrXUCeYMyoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AYdrXUCeYMyoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=3040941468032686689&hl=en&as_sdt=5,44",
+          "cluster_id": "3040941468032686689",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3040941468032686689&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Research on big data analysis model of multi energy power generation considering pollutant emission—Empirical analysis from Shanxi Province",
+      "result_id": "2Z8E-MoHyfUJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0959652621023726",
+      "snippet": "With the development of the integrated energy Internet, energy structure optimization and emission reduction have led to higher requirements for developing various energy sources …",
+      "publication_info": {
+        "summary": "D Ren, X Guo, C Li - Journal of Cleaner Production, 2021 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2Z8E-MoHyfUJ",
+        "cited_by": {
+          "total": 15,
+          "link": "https://scholar.google.com/scholar?cites=17710695577937027033&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "17710695577937027033",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=17710695577937027033&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2Z8E-MoHyfUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A2Z8E-MoHyfUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=17710695577937027033&hl=en&as_sdt=5,44",
+          "cluster_id": "17710695577937027033",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17710695577937027033&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Industrial Dataspace for smart manufacturing: connotation, key technologies, and framework",
+      "result_id": "HOEGrPn1ynoJ",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.1955996",
+      "snippet": "Smart manufacturing is a popular concept for smarter decision-making and more efficient production. Although distributed methods for data management and processing in smart …",
+      "publication_info": {
+        "summary": "J Guo, Y Cheng, D Wang, F Tao… - International Journal of …, 2023 - Taylor & Francis",
+        "authors": [
+          {
+            "name": "Y Cheng",
+            "link": "https://scholar.google.com/citations?user=wO0gbzgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wO0gbzgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wO0gbzgAAAAJ"
+          },
+          {
+            "name": "F Tao",
+            "link": "https://scholar.google.com/citations?user=-LQGKncAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-LQGKncAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-LQGKncAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HOEGrPn1ynoJ",
+        "cited_by": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cites=8848154870604554524&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "8848154870604554524",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8848154870604554524&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HOEGrPn1ynoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AHOEGrPn1ynoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=8848154870604554524&hl=en&as_sdt=5,44",
+          "cluster_id": "8848154870604554524",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8848154870604554524&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Modeling an optimized approach for load balancing in cloud",
+      "result_id": "0CUehJgVKYAJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9195873/",
+      "snippet": "Despite significant infrastructure improvements, cloud computing still faces numerous challenges in terms of load balancing. Several techniques have been applied in the …",
+      "publication_info": {
+        "summary": "M Junaid, A Sohail, RNB Rais, A Ahmed… - IEEE …, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Junaid",
+            "link": "https://scholar.google.com/citations?user=qpe5HvcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qpe5HvcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qpe5HvcAAAAJ"
+          },
+          {
+            "name": "A Sohail",
+            "link": "https://scholar.google.com/citations?user=1ktebBEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1ktebBEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1ktebBEAAAAJ"
+          },
+          {
+            "name": "RNB Rais",
+            "link": "https://scholar.google.com/citations?user=Bobx96EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Bobx96EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Bobx96EAAAAJ"
+          },
+          {
+            "name": "A Ahmed",
+            "link": "https://scholar.google.com/citations?user=qG7P3HMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qG7P3HMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qG7P3HMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09195873.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0CUehJgVKYAJ",
+        "cited_by": {
+          "total": 30,
+          "link": "https://scholar.google.com/scholar?cites=9234936255695693264&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "9234936255695693264",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9234936255695693264&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0CUehJgVKYAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A0CUehJgVKYAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=9234936255695693264&hl=en&as_sdt=5,44",
+          "cluster_id": "9234936255695693264",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9234936255695693264&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "An improved K-means algorithm based on evidence distance",
+      "result_id": "2CGZHX-qttQJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/1099-4300/23/11/1550",
+      "snippet": "The main influencing factors of the clustering effect of the k-means algorithm are the selection of the initial clustering center and the distance measurement between the sample …",
+      "publication_info": {
+        "summary": "A Zhu, Z Hua, Y Shi, Y Tang, L Miao - Entropy, 2021 - mdpi.com",
+        "authors": [
+          {
+            "name": "Y Tang",
+            "link": "https://scholar.google.com/citations?user=yZBREOEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yZBREOEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yZBREOEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/1099-4300/23/11/1550"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2CGZHX-qttQJ",
+        "html_version": "https://www.mdpi.com/1099-4300/23/11/1550",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=15327625844736205272&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "15327625844736205272",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15327625844736205272&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2CGZHX-qttQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A2CGZHX-qttQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=15327625844736205272&hl=en&as_sdt=5,44",
+          "cluster_id": "15327625844736205272",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15327625844736205272&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:2CGZHX-qttQJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Graph support measures and flows",
+      "result_id": "S-NHWkJZTYsJ",
+      "link": "https://link.springer.com/article/10.1007/s13278-022-00955-z",
+      "snippet": "Graph databases have gained popularity in recent years because many data use graphs as easy and intuitive representations. The task of Graph Mining focuses on identifying …",
+      "publication_info": {
+        "summary": "N Vanetik - Social Network Analysis and Mining, 2022 - Springer",
+        "authors": [
+          {
+            "name": "N Vanetik",
+            "link": "https://scholar.google.com/citations?user=x2d5asIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x2d5asIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x2d5asIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=S-NHWkJZTYsJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=10037777285996077899&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "10037777285996077899",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10037777285996077899&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:S-NHWkJZTYsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AS-NHWkJZTYsJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Memetic spider monkey optimization for spam review detection problem",
+      "result_id": "jnkj85QZ29UJ",
+      "link": "https://www.liebertpub.com/doi/abs/10.1089/big.2020.0188",
+      "snippet": "Spider monkey optimization (SMO) algorithm imitates the spider monkey's fission–fusion social behavior. It is evident through literature that the SMO is a competitive swarm-based …",
+      "publication_info": {
+        "summary": "SS Shekhawat, H Sharma, S Kumar - Big Data, 2023 - liebertpub.com",
+        "authors": [
+          {
+            "name": "SS Shekhawat",
+            "link": "https://scholar.google.com/citations?user=o7JOhCwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o7JOhCwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o7JOhCwAAAAJ"
+          },
+          {
+            "name": "H Sharma",
+            "link": "https://scholar.google.com/citations?user=GIYOVhMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GIYOVhMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GIYOVhMAAAAJ"
+          },
+          {
+            "name": "S Kumar",
+            "link": "https://scholar.google.com/citations?user=U53p3D8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=U53p3D8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "U53p3D8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jnkj85QZ29UJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=15409938677503326606&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "15409938677503326606",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15409938677503326606&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:jnkj85QZ29UJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3Ajnkj85QZ29UJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=15409938677503326606&hl=en&as_sdt=5,44",
+          "cluster_id": "15409938677503326606",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15409938677503326606&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "A near-optimal & load balanced resilient system design for high-performance computing platform",
+      "result_id": "TNh9J2AJtCcJ",
+      "link": "https://link.springer.com/article/10.1007/s10586-022-03913-8",
+      "snippet": "With the recent development and advancement of business growth models, information exchange has emerged as a critical component of computer communication technology. To …",
+      "publication_info": {
+        "summary": "NK Kamila, SK Pani, RP Das, PK Bharti… - Cluster …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "NK Kamila",
+            "link": "https://scholar.google.com/citations?user=8eisBJYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8eisBJYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8eisBJYAAAAJ"
+          },
+          {
+            "name": "SK Pani",
+            "link": "https://scholar.google.com/citations?user=Uyp4TWsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Uyp4TWsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Uyp4TWsAAAAJ"
+          },
+          {
+            "name": "RP Das",
+            "link": "https://scholar.google.com/citations?user=2kAamzQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2kAamzQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2kAamzQAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TNh9J2AJtCcJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2860921971871176780&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2860921971871176780",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2860921971871176780&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TNh9J2AJtCcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3ATNh9J2AJtCcJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2860921971871176780&hl=en&as_sdt=5,44",
+          "cluster_id": "2860921971871176780",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2860921971871176780&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Data science and Machine learning in the Clouds: A Perspective for the Future",
+      "result_id": "xTLKneDx-yAJ",
+      "link": "https://arxiv.org/abs/2109.01661",
+      "snippet": "As we are fast approaching the beginning of a paradigm shift in the field of science, Data driven science (the so called fourth science paradigm) is going to be the driving force in …",
+      "publication_info": {
+        "summary": "HB Barua - arXiv preprint arXiv:2109.01661, 2021 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2109.01661"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xTLKneDx-yAJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=2376759175390311109&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2376759175390311109",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2376759175390311109&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xTLKneDx-yAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AxTLKneDx-yAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=2376759175390311109&hl=en&as_sdt=5,44",
+          "cluster_id": "2376759175390311109",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2376759175390311109&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xTLKneDx-yAJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Research on the classification and control of human factor characteristics of coal mine accidents based on K-Means clustering analysis",
+      "result_id": "Q1xZ8bGdt4IJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169814123000732",
+      "snippet": "The occurrence of coal mine accidents is closely related to human factors. Six-hundred eighty five coal mine accident reports were analyzed to identify risk factors for coal mine …",
+      "publication_info": {
+        "summary": "D Miao, W Wang, Y Lv, L Liu, K Yao, X Sui - International Journal of …, 2023 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Q1xZ8bGdt4IJ"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Popularity and correlation aware data replication strategy based on half‐life concept and clustering in cloud system",
+      "result_id": "-96RUoTkY5kJ",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6159",
+      "snippet": "In the new millennium, a myriad of large‐scale applications (eg, social networks, ecommerce, internet of things, and scientific experiments) often generate large volumes of …",
+      "publication_info": {
+        "summary": "M Chellouf, T Hamrouni - Concurrency and Computation …, 2021 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "T Hamrouni",
+            "link": "https://scholar.google.com/citations?user=_MUiz9wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_MUiz9wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_MUiz9wAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-96RUoTkY5kJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=11052929167469436667&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "11052929167469436667",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=11052929167469436667&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:-96RUoTkY5kJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A-96RUoTkY5kJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Automation Model Development for School Reaccreditation of Early Childhood Education",
+      "result_id": "6-rhwQzHoFAJ",
+      "type": "Pdf",
+      "link": "https://www.e-iji.net/dosyalar/iji_2024_1_11.pdf",
+      "snippet": "As stated in the Research and Development Objectives 2020-2024 by BSKAP, it was agreed on the need to implement a correct and credible quality monitoring and evaluation system …",
+      "publication_info": {
+        "summary": "A Cahyana, JA Pratama, MA Ramadhan… - International Journal of …, 2024 - e-iji.net"
+      },
+      "resources": [
+        {
+          "title": "e-iji.net",
+          "file_format": "PDF",
+          "link": "https://www.e-iji.net/dosyalar/iji_2024_1_11.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6-rhwQzHoFAJ",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6-rhwQzHoFAJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 3,
+      "title": "E-commerce information system management based on data mining and neural network algorithms",
+      "result_id": "Z7nb0vm_FT8J",
+      "type": "Html",
+      "link": "https://www.hindawi.com/journals/cin/2022/1499801/",
+      "snippet": "The rapid development of artificial intelligence technology has led to rapid development in various fields. It has many hidden related customer behavior information and future …",
+      "publication_info": {
+        "summary": "Q Zhang, AR Abdullah, CW Chong… - Computational …, 2022 - hindawi.com",
+        "authors": [
+          {
+            "name": "Q Zhang",
+            "link": "https://scholar.google.com/citations?user=JhBC06cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JhBC06cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JhBC06cAAAAJ"
+          },
+          {
+            "name": "AR Abdullah",
+            "link": "https://scholar.google.com/citations?user=I-gBWgQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=I-gBWgQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "I-gBWgQAAAAJ"
+          },
+          {
+            "name": "CW Chong",
+            "link": "https://scholar.google.com/citations?user=Z-9yx3YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Z-9yx3YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Z-9yx3YAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "hindawi.com",
+          "file_format": "HTML",
+          "link": "https://www.hindawi.com/journals/cin/2022/1499801/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Z7nb0vm_FT8J",
+        "html_version": "https://www.hindawi.com/journals/cin/2022/1499801/",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=4545750478605760871&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "4545750478605760871",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=4545750478605760871&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Z7nb0vm_FT8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AZ7nb0vm_FT8J%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=4545750478605760871&hl=en&as_sdt=5,44",
+          "cluster_id": "4545750478605760871",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=4545750478605760871&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Z7nb0vm_FT8J:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Green computing for big data and machine learning",
+      "result_id": "TOZ8qSNd-NgJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3493700.3493772",
+      "snippet": "The current decade has beheld a tremendous spike in data volume, velocity, variety and many other such aspects which we call as Big Data and which gave birth to a new kind of …",
+      "publication_info": {
+        "summary": "HB Barua, KC Mondal, S Khatua - … on Data Science & Management of …, 2022 - dl.acm.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "S Khatua",
+            "link": "https://scholar.google.com/citations?user=mPoxlFIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mPoxlFIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mPoxlFIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Hrishav-Barua/publication/357679225_Green_Computing_for_Big_Data_and_Machine_Learning/links/61dc6db33a192d2c8aefd91f/Green-Computing-for-Big-Data-and-Machine-Learning.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TOZ8qSNd-NgJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=15634348514165450316&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "15634348514165450316",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15634348514165450316&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TOZ8qSNd-NgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3ATOZ8qSNd-NgJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15634348514165450316&hl=en&as_sdt=5,44",
+          "cluster_id": "15634348514165450316",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15634348514165450316&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Cloud big data mining and analytics: Bringing greenness and acceleration in the cloud",
+      "result_id": "njm6hwGwALAJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-24628-9_22",
+      "snippet": "Big data is gaining overwhelming attention since the last decade. Almost all the fields of science and technology have experienced a considerable impact from it. The cloud …",
+      "publication_info": {
+        "summary": "HB Barua, KC Mondal - Machine Learning for Data Science Handbook …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2104.05765"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=njm6hwGwALAJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=12682330071293901214&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "12682330071293901214",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12682330071293901214&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:njm6hwGwALAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3Anjm6hwGwALAJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12682330071293901214&hl=en&as_sdt=5,44",
+          "cluster_id": "12682330071293901214",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12682330071293901214&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "RST-DE: Rough Sets-Based New Differential Evolution Algorithm for Scalable Big Data Feature Selection in Distributed Computing Platforms",
+      "result_id": "pXIvtfpvS4UJ",
+      "link": "https://www.liebertpub.com/doi/abs/10.1089/big.2021.0267",
+      "snippet": "In data analysis, data scientists usually focus on the size of data instead of features selection. Owing to the extreme growth of internet resources data are growing exponentially …",
+      "publication_info": {
+        "summary": "S Thakur, R Dharavath, A Shankar, P Singh, M Diwakar… - Big Data, 2022 - liebertpub.com",
+        "authors": [
+          {
+            "name": "S Thakur",
+            "link": "https://scholar.google.com/citations?user=PT_-YmoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PT_-YmoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PT_-YmoAAAAJ"
+          },
+          {
+            "name": "R Dharavath",
+            "link": "https://scholar.google.com/citations?user=n1GiccAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=n1GiccAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "n1GiccAAAAAJ"
+          },
+          {
+            "name": "A Shankar",
+            "link": "https://scholar.google.com/citations?user=n-zJ-mUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=n-zJ-mUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "n-zJ-mUAAAAJ"
+          },
+          {
+            "name": "P Singh",
+            "link": "https://scholar.google.com/citations?user=_e7vt1oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_e7vt1oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_e7vt1oAAAAJ"
+          },
+          {
+            "name": "M Diwakar",
+            "link": "https://scholar.google.com/citations?user=1i5VD4IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1i5VD4IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1i5VD4IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "liebertpub.com",
+          "file_format": "PDF",
+          "link": "https://www.liebertpub.com/doi/pdf/10.1089/big.2021.0267"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:pXIvtfpvS4UJ:scholar.google.com/&hl=en&as_sdt=5,44&scillfp=13637157091474575566&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pXIvtfpvS4UJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=9604893752870007461&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "9604893752870007461",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9604893752870007461&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pXIvtfpvS4UJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3ApXIvtfpvS4UJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9604893752870007461&hl=en&as_sdt=5,44",
+          "cluster_id": "9604893752870007461",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9604893752870007461&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Decision support based on optimized data mining techniques: Application to mobile telecommunication companies",
+      "result_id": "I5vElMOxcKkJ",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5833",
+      "snippet": "One of the most important challenges of African countries is the effective use of information and communication technologies and its generalization in the different sectors (education …",
+      "publication_info": {
+        "summary": "L Berkani - Concurrency and Computation: Practice and …, 2021 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "L Berkani",
+            "link": "https://scholar.google.com/citations?user=vuJs4u4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vuJs4u4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vuJs4u4AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=I5vElMOxcKkJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=12209454043374066467&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "12209454043374066467",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12209454043374066467&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:I5vElMOxcKkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AI5vElMOxcKkJ%3Ascholar.google.com%2F&start=10"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Case-Based Classifier for Air Pollution Monitoring and Forecasting",
+      "result_id": "D8838T4aM-kJ",
+      "link": "https://link.springer.com/article/10.1007/s40031-021-00566-w",
+      "snippet": "Global energy production and consumption around the world have changed dramatically over the years with concern over the air quality. Pollution can be of various forms, and each …",
+      "publication_info": {
+        "summary": "GM Siddesh, S Hiriyanniah, KG Srinivasa - Journal of The Institution of …, 2021 - Springer",
+        "authors": [
+          {
+            "name": "KG Srinivasa",
+            "link": "https://scholar.google.com/citations?user=yV7dYSQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yV7dYSQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yV7dYSQAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=D8838T4aM-kJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=16803803492286713615&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "16803803492286713615",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=16803803492286713615&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:D8838T4aM-kJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AD8838T4aM-kJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16803803492286713615&hl=en&as_sdt=5,44",
+          "cluster_id": "16803803492286713615",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=16803803492286713615&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Access control role evolution mechanism for open computing environment",
+      "result_id": "ej_-kqmSdGYJ",
+      "link": "https://www.mdpi.com/2079-9292/9/3/517",
+      "snippet": "Data resources in open computing environments (including big data, internet of things and cloud computing) are characterized by large scale, wide source, and strong dynamics …",
+      "publication_info": {
+        "summary": "A Liu, X Du, N Wang - Electronics, 2020 - mdpi.com"
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "PDF",
+          "link": "https://www.mdpi.com/2079-9292/9/3/517/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ej_-kqmSdGYJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=7382686946180349818&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "7382686946180349818",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7382686946180349818&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ej_-kqmSdGYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3Aej_-kqmSdGYJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=7382686946180349818&hl=en&as_sdt=5,44",
+          "cluster_id": "7382686946180349818",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=7382686946180349818&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ej_-kqmSdGYJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 0,
+      "title": "Research Article E-Commerce Information System Management Based on Data Mining and Neural Network Algorithms",
+      "result_id": "BTN3svg-1wkJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/90445731/1499801.pdf",
+      "snippet": "Research Article E-Commerce Information System Management Based on Data Mining and Neural Network Algorithms Page 1 Research Article E-Commerce Information System …",
+      "publication_info": {
+        "summary": "Q Zhang, AR Abdullah, CW Chong, MH Ali - 2022 - academia.edu",
+        "authors": [
+          {
+            "name": "Q Zhang",
+            "link": "https://scholar.google.com/citations?user=JhBC06cAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JhBC06cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JhBC06cAAAAJ"
+          },
+          {
+            "name": "AR Abdullah",
+            "link": "https://scholar.google.com/citations?user=I-gBWgQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=I-gBWgQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "I-gBWgQAAAAJ"
+          },
+          {
+            "name": "CW Chong",
+            "link": "https://scholar.google.com/citations?user=Z-9yx3YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Z-9yx3YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Z-9yx3YAAAAJ"
+          },
+          {
+            "name": "MH Ali",
+            "link": "https://scholar.google.com/citations?user=gKmEZAoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gKmEZAoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gKmEZAoAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/90445731/1499801.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BTN3svg-1wkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:BTN3svg-1wkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3ABTN3svg-1wkJ%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:BTN3svg-1wkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Open-Source Intelligence Investigations: Development and Application of Efficient Tools",
+      "result_id": "_Llyl25pU60J",
+      "link": "https://search.proquest.com/openview/1c22f02955be32baa4b62cc12571d185/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "snippet": "Open-source intelligence is a branch within cybercrime investigation that focuses on information collection and aggregation. Through this aggregation, investigators and analysts …",
+      "publication_info": {
+        "summary": "C Horan - 2022 - search.proquest.com"
+      },
+      "resources": [
+        {
+          "title": "ku.edu",
+          "file_format": "PDF",
+          "link": "https://kuscholarworks.ku.edu/bitstream/handle/1808/34201/Horan_ku_0099M_18333_DATA_1.pdf?sequence=1&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_Llyl25pU60J",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12489442115336714748&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "12489442115336714748",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12489442115336714748&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_Llyl25pU60J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A_Llyl25pU60J%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12489442115336714748&hl=en&as_sdt=5,44",
+          "cluster_id": "12489442115336714748",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12489442115336714748&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "An evaluation model for Cloud-based Data mining Systems with Hadoop",
+      "result_id": "Ac8HvXerjd0J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9371799/",
+      "snippet": "The traditional approach of mining is more expensive, slow, and is inefficient in case of big data. This calls the essence of cloud technology which has the capability of discovering …",
+      "publication_info": {
+        "summary": "A Limbu, S Heiyanthuduwage - 2020 5th International …, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Heiyanthuduwage",
+            "link": "https://scholar.google.com/citations?user=CN8WHRIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CN8WHRIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CN8WHRIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Ac8HvXerjd0J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=15964604784859139841&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "15964604784859139841",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15964604784859139841&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Ac8HvXerjd0J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AAc8HvXerjd0J%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Sufficient instance networks for computing support in graph databases",
+      "result_id": "gGgtALJog9QJ",
+      "link": "https://www.researchsquare.com/article/rs-2294036/latest",
+      "snippet": "Because displaying connections within the data via a graph is natural and intuitive for humans, graph databases have grown in popularity. A graph database can be made up of …",
+      "publication_info": {
+        "summary": "N Vanetik - 2022 - researchsquare.com"
+      },
+      "resources": [
+        {
+          "title": "researchsquare.com",
+          "file_format": "PDF",
+          "link": "https://www.researchsquare.com/article/rs-2294036/latest.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gGgtALJog9QJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:gGgtALJog9QJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AgGgtALJog9QJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=15313198271706261632&hl=en&as_sdt=5,44",
+          "cluster_id": "15313198271706261632",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15313198271706261632&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:gGgtALJog9QJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Cloud Mining Actionable Pattern Discovery in Big Data: A Survey",
+      "result_id": "4dRkR44DnrAJ",
+      "type": "Pdf",
+      "link": "http://drtzacheva.com/Papers/2022_SurveyActionRules_Journal_TMLAI.pdf",
+      "snippet": "Everyday several tons of data are generated by Social Media and Education sectors. Mining this data can provide a lot of meaningful insights on how to improve user experience in …",
+      "publication_info": {
+        "summary": "A Tzacheva, S Chatterjee, Z Ras - 2022 - drtzacheva.com",
+        "authors": [
+          {
+            "name": "Z Ras",
+            "link": "https://scholar.google.com/citations?user=2ihGAJkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2ihGAJkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2ihGAJkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "drtzacheva.com",
+          "file_format": "PDF",
+          "link": "http://drtzacheva.com/Papers/2022_SurveyActionRules_Journal_TMLAI.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4dRkR44DnrAJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4dRkR44DnrAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A4dRkR44DnrAJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12726613506613630177&hl=en&as_sdt=5,44",
+          "cluster_id": "12726613506613630177",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12726613506613630177&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:4dRkR44DnrAJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 5,
+      "title": "CLOUD BASED PRIVACY PRESERVING DATA MINING MODEL USING HYBRID K-ANONYMITY AND PARTIAL HOMOMORPHIC ENCRYPTION",
+      "result_id": "39qWByssrnwJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "HOM OSMAN - 2022 - Universiti Teknologi Malaysia"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=39qWByssrnwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:39qWByssrnwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A39qWByssrnwJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Cheetah: A fast unsupervised learning technique to provision next generation network services",
+      "result_id": "6hHKjwHxebYJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3429885.3429964",
+      "snippet": "Recently, attributed graphs have been extensively employed in modeling, studying and analyzing complex interactions in real world systems. A myriad of techniques have been …",
+      "publication_info": {
+        "summary": "L Lahlou, N Kara, M Arouch, C Edstrom - Proceedings of the 2020 6th …, 2020 - dl.acm.org",
+        "authors": [
+          {
+            "name": "L Lahlou",
+            "link": "https://scholar.google.com/citations?user=p6vhnEsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=p6vhnEsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "p6vhnEsAAAAJ"
+          },
+          {
+            "name": "N Kara",
+            "link": "https://scholar.google.com/citations?user=41Njd1gAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=41Njd1gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "41Njd1gAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Lahlou-Laaziz/publication/348411844_Cheetah_A_fast_unsupervised_learning_technique_to_provision_next_generation_network_services/links/6006e99092851c13fe1fadc4/Cheetah-A-fast-unsupervised-learning-technique-to-provision-next-generation-network-services.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6hHKjwHxebYJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6hHKjwHxebYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3A6hHKjwHxebYJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=13148805576094519786&hl=en&as_sdt=5,44",
+          "cluster_id": "13148805576094519786",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13148805576094519786&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Creating a Culture of Data-Driven Decision-Making",
+      "result_id": "nYK4B1EPx3cJ",
+      "type": "Book",
+      "link": "https://search.proquest.com/openview/48d408f25237023196a2e8dfbde377e7/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "snippet": "Researchers have consistently shown that a supportive culture is one of the most crucial success factors in the implementation of any big data solution. Creating a culture that …",
+      "publication_info": {
+        "summary": "K Rogers - 2020 - search.proquest.com"
+      },
+      "resources": [
+        {
+          "title": "liberty.edu",
+          "file_format": "PDF",
+          "link": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=3720&context=doctoral"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nYK4B1EPx3cJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nYK4B1EPx3cJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AnYK4B1EPx3cJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8630884051575145117&hl=en&as_sdt=5,44",
+          "cluster_id": "8630884051575145117",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8630884051575145117&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Cloud Computing and Data Mining in E-Commerce",
+      "result_id": "Z3pv8Hqy7csJ",
+      "link": "https://www.worldscientific.com/doi/abs/10.1142/9789811245992_0017",
+      "snippet": "In recent times, e-commerce has changed the way businesses work. And to strive and thrive in this extremely competing world, organizations need to leverage the power of Big Data and …",
+      "publication_info": {
+        "summary": "M Kawathekar, Niharika, R Auti… - CHANGING FACE OF …, 2022 - World Scientific"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Z3pv8Hqy7csJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Z3pv8Hqy7csJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3AZ3pv8Hqy7csJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Why This Book?",
+      "result_id": "j5x3Bgqv68AJ",
+      "type": "Book",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-41784-0_1",
+      "snippet": "Cloud computing is now a mature technology and its combination with serverless computing has great potential in many fields of research. This chapter introduces some of the most …",
+      "publication_info": {
+        "summary": "JA Añel, DP Montes, J Rodeiro Iglesias, JA Añel… - 2020 - Springer",
+        "authors": [
+          {
+            "name": "JA Añel",
+            "link": "https://scholar.google.com/citations?user=ayDuka0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ayDuka0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ayDuka0AAAAJ"
+          },
+          {
+            "name": "DP Montes",
+            "link": "https://scholar.google.com/citations?user=w7-qsDsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w7-qsDsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w7-qsDsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "artepublicopress.com",
+          "file_format": "PDF",
+          "link": "https://artepublicopress.com/wp-content/uploads/2022/04/Tyrones-Betrayal.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j5x3Bgqv68AJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:j5x3Bgqv68AJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&q=related%3Aj5x3Bgqv68AJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=13901397132402203791&hl=en&as_sdt=5,44",
+          "cluster_id": "13901397132402203791",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13901397132402203791&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&cites=232965886830973926&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&cites=232965886830973926&scipsc=1",
+      "3": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=5,44&cites=232965886830973926&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=232965886830973926&engine=google_scholar&hl=en&start=20"
+    }
+  }
+}

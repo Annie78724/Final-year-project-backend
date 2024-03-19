@@ -1,0 +1,232 @@
+{
+  "search_metadata": {
+    "id": "654359e08ccee0e91391dee0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0626f5053383115a/654359e08ccee0e91391dee0.json",
+    "created_at": "2023-11-02 08:12:16 UTC",
+    "processed_at": "2023-11-02 08:12:16 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=8648499817874500215&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/0626f5053383115a/654359e08ccee0e91391dee0.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "8648499817874500215",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=8648499817874500215&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Let me join you! Real-time F-formation recognition by a socially aware robot",
+      "result_id": "2E42eIPIfVMJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9223469/",
+      "snippet": "This paper presents a novel architecture to detect social groups in real-time from a continuous image stream of an ego-vision camera. F-formation defines social orientations in …",
+      "publication_info": {
+        "summary": "HB Barua, P Pramanick, C Sarkar… - 2020 29th IEEE …, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "P Pramanick",
+            "link": "https://scholar.google.com/citations?user=o9PXpR0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o9PXpR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o9PXpR0AAAAJ"
+          },
+          {
+            "name": "C Sarkar",
+            "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MMOS7xsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2008.10078"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2E42eIPIfVMJ",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=6016185144219946712&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "6016185144219946712",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2E42eIPIfVMJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8648499817874500215&engine=google_scholar&hl=en&q=related%3A2E42eIPIfVMJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=6016185144219946712&hl=en&as_sdt=5,44",
+          "cluster_id": "6016185144219946712",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=6016185144219946712&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Robo-vision! 3D mesh generation of a scene for a robot for planar and non-planar complex objects",
+      "result_id": "1xUSzSjcULoJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-15111-8",
+      "snippet": "This paper presents a novel architecture to generate a world model in terms of mesh from a continuous image stream with depth information extracted from a robot's ego-vision camera …",
+      "publication_info": {
+        "summary": "S Agarwal, S Maity, HB Barua, B Bhowmick - Multimedia Tools and …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "S Agarwal",
+            "link": "https://scholar.google.com/citations?user=gpsZ7p8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gpsZ7p8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gpsZ7p8AAAAJ"
+          },
+          {
+            "name": "S Maity",
+            "link": "https://scholar.google.com/citations?user=55kzdKUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=55kzdKUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "55kzdKUAAAAJ"
+          },
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "B Bhowmick",
+            "link": "https://scholar.google.com/citations?user=Eqf8NrEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Eqf8NrEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Eqf8NrEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s11042-023-15111-8"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1xUSzSjcULoJ",
+        "html_version": "https://link.springer.com/article/10.1007/s11042-023-15111-8",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1xUSzSjcULoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8648499817874500215&engine=google_scholar&hl=en&q=related%3A1xUSzSjcULoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=13425472556988765655&hl=en&as_sdt=5,44",
+          "cluster_id": "13425472556988765655",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13425472556988765655&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Real-time Trajectory-based Social Group Detection",
+      "result_id": "Mjd2S1Zn3jYJ",
+      "link": "https://arxiv.org/abs/2304.05678",
+      "snippet": "Social group detection is a crucial aspect of various robotic applications, including robot navigation and human-robot interactions. To date, a range of model-based techniques have …",
+      "publication_info": {
+        "summary": "S Jahangard, M Hayat, H Rezatofighi - arXiv preprint arXiv:2304.05678, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "S Jahangard",
+            "link": "https://scholar.google.com/citations?user=1bMrjtkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1bMrjtkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1bMrjtkAAAAJ"
+          },
+          {
+            "name": "M Hayat",
+            "link": "https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Mx8MbWYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Mx8MbWYAAAAJ"
+          },
+          {
+            "name": "H Rezatofighi",
+            "link": "https://scholar.google.com/citations?user=VxAuxMwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VxAuxMwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VxAuxMwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2304.05678"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Mjd2S1Zn3jYJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Mjd2S1Zn3jYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8648499817874500215&engine=google_scholar&hl=en&q=related%3AMjd2S1Zn3jYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3953711143208761138&hl=en&as_sdt=5,44",
+          "cluster_id": "3953711143208761138",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3953711143208761138&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Mjd2S1Zn3jYJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 3,
+      "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+      "result_id": "en-EuwfyJCkJ",
+      "link": "https://arxiv.org/abs/2203.02959",
+      "snippet": "Telepresence and teleoperation robotics have attracted a great amount of attention in the last 10 years. With the Artificial Intelligence (AI) revolution already being started, we can see …",
+      "publication_info": {
+        "summary": "HB Barua, A Sau - arXiv preprint arXiv:2203.02959, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "A Sau",
+            "link": "https://scholar.google.com/citations?user=PUgt5BQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PUgt5BQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PUgt5BQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2203.02959"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=en-EuwfyJCkJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2964760569741344634&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2964760569741344634",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2964760569741344634&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:en-EuwfyJCkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8648499817874500215&engine=google_scholar&hl=en&q=related%3Aen-EuwfyJCkJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:en-EuwfyJCkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    }
+  ]
+}

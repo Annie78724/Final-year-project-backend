@@ -1,0 +1,72 @@
+{
+  "search_metadata": {
+    "id": "65435ac537b24aa4b58ea159",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e87fd4a6f24a5f2a/65435ac537b24aa4b58ea159.json",
+    "created_at": "2023-11-02 08:16:05 UTC",
+    "processed_at": "2023-11-02 08:16:05 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=12017799300296402898&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/e87fd4a6f24a5f2a/65435ac537b24aa4b58ea159.html",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "12017799300296402898",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=12017799300296402898&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Fault Analysis and Trend Prediction in Telecommunication Using Pattern Detection: Architecture, Case Study and Experimentation",
+      "result_id": "ZoQFhoa4AKsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-13-8578-0_24",
+      "snippet": "In recent years, almost every industry especially digital, e-commerce and telecommunication experienced exponential growth of data. Harvesting knowledge in these highly dynamic …",
+      "publication_info": {
+        "summary": "KC Mondal, HB Barua - … Conference, CICBA 2018, Kalyani, India, July 27 …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/333997699_Fault_Analysis_and_Trend_Prediction_in_Telecommunication_Using_Pattern_Detection_Architecture_Case_Study_and_Experimentation/links/5e9e1cdba6fdcca7892bca8d/Fault-Analysis-and-Trend-Prediction-in-Telecommunication-Using-Pattern-Detection-Architecture-Case-Study-and-Experimentation.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZoQFhoa4AKsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZoQFhoa4AKsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12017799300296402898&engine=google_scholar&hl=en&q=related%3AZoQFhoa4AKsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12322051468399314022&hl=en&as_sdt=5,44",
+          "cluster_id": "12322051468399314022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12322051468399314022&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

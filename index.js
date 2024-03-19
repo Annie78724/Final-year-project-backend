@@ -6,7 +6,75 @@ const pool = require("./db");
 //middleware
 app.use(cors());
 app.use(express.json());
+app.use(express.json({limit : '50mb',extended : true}))
+app.use(express.urlencoded({limit : '50mb',extended : true}))
 
+// Test database connection
+pool.connect((err, client, release) => {
+  if (err) {
+    return console.error('Error acquiring client', err.stack);
+  }
+  console.log('Connected to PostgreSQL database');
+  release(); // Release the client back to the pool
+});
+
+async function createTables() {
+  const client = await pool.connect();
+  try {
+      await client.query(`
+      CREATE TABLE IF NOT EXISTS Author (
+        author_id VARCHAR(255) PRIMARY KEY,
+        name VARCHAR(255),
+        email VARCHAR(255),
+        website VARCHAR(255),
+        affiliations TEXT,
+        thumbnail VARCHAR(255),
+        interests JSON -- Assuming interests will be stored as a JSON string
+    );
+
+          CREATE TABLE IF NOT EXISTS Articles (
+              citation_id VARCHAR(255) PRIMARY KEY, 
+              author_id VARCHAR(255),
+              title VARCHAR(255),
+              authors VARCHAR(255),
+              publications VARCHAR(255),
+              cited_by_value VARCHAR(255),
+              cites_id VARCHAR(255),
+              year VARCHAR(255),
+              FOREIGN KEY (author_id) REFERENCES Author(author_id)
+          );
+
+          CREATE TABLE IF NOT EXISTS CoAuthors (
+              coauthor_unique_id VARCHAR(255) PRIMARY KEY,
+              coauthor_id VARCHAR(255),
+              author_id VARCHAR(255),
+              name VARCHAR(255),
+              affiliations TEXT,
+              email VARCHAR(255),
+              thumbnail VARCHAR(255),
+              FOREIGN KEY (author_id) REFERENCES Author(author_id)
+          );
+
+
+          CREATE TABLE IF NOT EXISTS CITED_BY (
+              cited_by_unique_id VARCHAR(255) PRIMARY KEY,
+              author_id VARCHAR(255),
+              cites_id VARCHAR(255),
+              result_id VARCHAR(255),
+              title VARCHAR(255),
+              publication_author_name VARCHAR(255),
+              publication_author_id VARCHAR(255)
+          );
+      `);
+      console.log('Tables created if they did not exist already');
+  } catch (err) {
+      console.error('Error creating tables:', err);
+  } finally {
+      client.release();
+  }
+}
+
+createTables();
 
 app.post("/api/insertdata", async (req, res) => {
   const data = req.body; // Assuming the JSON object contains data for all tables
@@ -165,19 +233,19 @@ app.get("/get-all-data", async (req, res) => {
 
 app.get("/api/get-cited-by-information", async (req, res) => {
   try {
-    const { author_id, result_id } = req.body; // Extract author_id and result_id from req.body
+    const { author_id, cites_id } = req.body; // Extract author_id and cites_id from req.body
 
-    // Fetch data from the CITED_BY table matching the provided author_id and result_id
+    // Fetch data from the CITED_BY table matching the provided author_id and cites_id
     const queryResult = await pool.query(
-      "SELECT * FROM CITED_BY WHERE author_id = $1 AND result_id = $2",
-      [author_id, result_id]
+      "SELECT * FROM CITED_BY WHERE author_id = $1 AND cites_id = $2",
+      [author_id, cites_id]
     );
 
     // Prepare the response object
     const citedByInformation = {
       search_parameters: {
         author_id,
-        result_id
+        cites_id
       },
       organic_results: []
     };
@@ -220,6 +288,7 @@ app.get("/api/get-cited-by-information", async (req, res) => {
     res.status(500).send("Internal Server Error");
   }
 });
+
 
 app.listen(5000, (req, res) => {
   console.log("Server is listening to port 5000");

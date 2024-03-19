@@ -1,0 +1,67 @@
+{
+  "search_metadata": {
+    "id": "65435ab13e86acd155ea80f2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d63ec2e2af14f89f/65435ab13e86acd155ea80f2.json",
+    "created_at": "2023-11-02 08:15:45 UTC",
+    "processed_at": "2023-11-02 08:15:45 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=7319440730017412560&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/d63ec2e2af14f89f/65435ab13e86acd155ea80f2.html",
+    "total_time_taken": 2.33
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "7319440730017412560",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=7319440730017412560&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Approximate Computing for Robotic path planning--Experimentation, Case Study and Practical Implications",
+      "result_id": "qMie88dBfYwJ",
+      "link": "https://arxiv.org/abs/2104.05773",
+      "snippet": "Approximate computing is a computation domain which can be used to trade time and energy with quality and therefore is useful in embedded systems. Energy is the prime …",
+      "publication_info": {
+        "summary": "HB Barua - arXiv preprint arXiv:2104.05773, 2021 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2104.05773"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=qMie88dBfYwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:qMie88dBfYwJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7319440730017412560&engine=google_scholar&hl=en&q=related%3AqMie88dBfYwJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=10123319864440309928&hl=en&as_sdt=5,44",
+          "cluster_id": "10123319864440309928",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=10123319864440309928&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:qMie88dBfYwJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "search_metadata": {
+    "id": "654356fa7690dcf6b7bcb929",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/32c76628f224e2bb/654356fa7690dcf6b7bcb929.json",
+    "created_at": "2023-11-02 07:59:54 UTC",
+    "processed_at": "2023-11-02 07:59:54 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=14631852240069790219&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/32c76628f224e2bb/654356fa7690dcf6b7bcb929.html",
+    "total_time_taken": 1.1
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "14631852240069790219",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 12,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=14631852240069790219&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Review on density based clustering algorithms for very large datasets",
+      "result_id": "klPaLboJxOkJ",
+      "type": "Pdf",
+      "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b6e410a45da6fcce0bda136111e1c557f27ccfd8",
+      "snippet": "Data mining is widely employed in business management and engineering. The major objective of data mining is to discover helpful and accurate information among a vast …",
+      "publication_info": {
+        "summary": "P Lovely Sharma, KA Ramya - Int J Emerg Technol Adv Eng, 2013 - Citeseer"
+      },
+      "resources": [
+        {
+          "title": "psu.edu",
+          "file_format": "PDF",
+          "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b6e410a45da6fcce0bda136111e1c557f27ccfd8"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=klPaLboJxOkJ",
+        "cited_by": {
+          "total": 21,
+          "link": "https://scholar.google.com/scholar?cites=16844599201510347666&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "16844599201510347666",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=16844599201510347666&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:klPaLboJxOkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3AklPaLboJxOkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=16844599201510347666&hl=en&as_sdt=5,44",
+          "cluster_id": "16844599201510347666",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=16844599201510347666&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:klPaLboJxOkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Modification of density based spatial clustering algorithm for large database using naive's bayes' theorem",
+      "result_id": "BTM4K0P0m38J",
+      "link": "https://ieeexplore.ieee.org/abstract/document/6821430/",
+      "snippet": "The DBSCALE algorithms are used for clustering of very large database. The clustering techniques are very proficient and also the rate of correctness is increases, but these …",
+      "publication_info": {
+        "summary": "J Agrawal, S Soni, S Sharma… - 2014 Fourth International …, 2014 - ieeexplore.ieee.org"
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Jitendra-Agrawal-2/publication/269305426_Modification_of_Density_Based_Spatial_Clustering_Algorithm_for_Large_Database_Using_Naive's_Bayes'_Theorem/links/5b8f8027299bf114b7f6239c/Modification-of-Density-Based-Spatial-Clustering-Algorithm-for-Large-Database-Using-Naives-Bayes-Theorem.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BTM4K0P0m38J",
+        "cited_by": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cites=9195211633532089093&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "9195211633532089093",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9195211633532089093&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:BTM4K0P0m38J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3ABTM4K0P0m38J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=9195211633532089093&hl=en&as_sdt=5,44",
+          "cluster_id": "9195211633532089093",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=9195211633532089093&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "An unsupervised approach for personalized RHM with reduced mean alert latency",
+      "result_id": "b9ZngKpPTLMJ",
+      "link": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs220539",
+      "snippet": "Abstract Remote Health Monitoring (RHM) is an important research topic among the researchers, where many challenges are to be addressed with respect to communication …",
+      "publication_info": {
+        "summary": "P Marimuthu, V Vaidehi - Journal of Intelligent & Fuzzy …, 2023 - content.iospress.com",
+        "authors": [
+          {
+            "name": "P Marimuthu",
+            "link": "https://scholar.google.com/citations?user=9QW-3bcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9QW-3bcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9QW-3bcAAAAJ"
+          },
+          {
+            "name": "V Vaidehi",
+            "link": "https://scholar.google.com/citations?user=77PbSVsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=77PbSVsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "77PbSVsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=b9ZngKpPTLMJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:b9ZngKpPTLMJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3Ab9ZngKpPTLMJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 3,
+      "title": "An extended density based clustering algorithm for large spatial 3d data using polyhedron approach",
+      "result_id": "MAmfEmjsbwkJ",
+      "type": "Pdf",
+      "link": "https://www.researchgate.net/profile/Hrishav-Barua/publication/258652938_An_Extended_Density_based_Clustering_Algorithm_for_Large_Spatial_3D_Data_using_Polyhedron_Approach/links/00b7d528f85e45010c000000/An-Extended-Density-based-Clustering-Algorithm-for-Large-Spatial-3D-Data-using-Polyhedron-Approach.pdf",
+      "snippet": "Discovering the meaningful patterns and trends out of large datasets needs a very special attention now a days, and one of the most prevalent and widely studied problems in this …",
+      "publication_info": {
+        "summary": "HB Barua, S Sarmah - International Journal of Computer …, 2012 - researchgate.net",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Hrishav-Barua/publication/258652938_An_Extended_Density_based_Clustering_Algorithm_for_Large_Spatial_3D_Data_using_Polyhedron_Approach/links/00b7d528f85e45010c000000/An-Extended-Density-based-Clustering-Algorithm-for-Large-Spatial-3D-Data-using-Polyhedron-Approach.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MAmfEmjsbwkJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=680022000489400624&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "680022000489400624",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:MAmfEmjsbwkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3AMAmfEmjsbwkJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=680022000489400624&hl=en&as_sdt=5,44",
+          "cluster_id": "680022000489400624",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=680022000489400624&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MAmfEmjsbwkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 4,
+      "title": "An approach to perform uncertainty analysis on a spatial dataset using clustering and distance based outlier detection technique",
+      "result_id": "TeoF7SDdnvkJ",
+      "type": "Pdf",
+      "link": "https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2015/Issue-35/Article10.pdf",
+      "snippet": "Background: In past years, many methods have been implemented for maintaining and supervising uncertain data that may occur due to collection of data in new ways which …",
+      "publication_info": {
+        "summary": "KR Manjula, AK Keshari… - Indian Journal …, 2015 - sciresol.s3.us-east-2.amazonaws …",
+        "authors": [
+          {
+            "name": "KR Manjula",
+            "link": "https://scholar.google.com/citations?user=ixGXio8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ixGXio8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ixGXio8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "amazonaws.com",
+          "file_format": "PDF",
+          "link": "https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2015/Issue-35/Article10.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TeoF7SDdnvkJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=17987057095249619533&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "17987057095249619533",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=17987057095249619533&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TeoF7SDdnvkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3ATeoF7SDdnvkJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:TeoF7SDdnvkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Linguistic Severity Range Fixation of Vital Signs Using Unsupervised Approach in RHM",
+      "result_id": "xinvbAiowTsJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9909372/",
+      "snippet": "Automatic abnormality detection in human health status based on the variation in the vital health parameters is a continuous research thrust area. After Covid pandemic the …",
+      "publication_info": {
+        "summary": "P Marimuthu - 2022 2nd Asian Conference on Innovation in …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "P Marimuthu",
+            "link": "https://scholar.google.com/citations?user=9QW-3bcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9QW-3bcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9QW-3bcAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xinvbAiowTsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xinvbAiowTsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3AxinvbAiowTsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=4305907472883722694&hl=en&as_sdt=5,44",
+          "cluster_id": "4305907472883722694",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=4305907472883722694&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Evolutionary computation approach for spatial workload balancing",
+      "result_id": "jmt979cqq3YJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-80126-7_38",
+      "snippet": "The growing demand for Geographic Information Systems (GIS) calls for high computation reliability to handle vast and complex spatial data processing tasks. A better parallel …",
+      "publication_info": {
+        "summary": "A Abubahia, M Bader-El-Den, E Haig - Intelligent Computing: Proceedings …, 2021 - Springer",
+        "authors": [
+          {
+            "name": "A Abubahia",
+            "link": "https://scholar.google.com/citations?user=TNux4d4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TNux4d4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TNux4d4AAAAJ"
+          },
+          {
+            "name": "M Bader-El-Den",
+            "link": "https://scholar.google.com/citations?user=xx4KZ7UAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xx4KZ7UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xx4KZ7UAAAAJ"
+          },
+          {
+            "name": "E Haig",
+            "link": "https://scholar.google.com/citations?user=amCn9vUAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=amCn9vUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "amCn9vUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "port.ac.uk",
+          "file_format": "PDF",
+          "link": "https://researchportal.port.ac.uk/files/25019669/SAI_Computing_Conference_2021.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jmt979cqq3YJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:jmt979cqq3YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3Ajmt979cqq3YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8550975424417328014&hl=en&as_sdt=5,44",
+          "cluster_id": "8550975424417328014",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8550975424417328014&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Spatial Data Mining Approaches for GIS Vector Data Processing",
+      "result_id": "Mgat7KaDmyoJ",
+      "type": "Pdf",
+      "link": "https://researchportal.port.ac.uk/files/13519347/Ahmed_Abubahia_PhD_Thesis.pdf",
+      "snippet": "Abstract Geographical Information Systems (GIS) are very useful system in capturing, storing, manipulating, analysing, managing, and presenting spatial data. GIS systems can …",
+      "publication_info": {
+        "summary": "A Abubahia - 2018 - researchportal.port.ac.uk",
+        "authors": [
+          {
+            "name": "A Abubahia",
+            "link": "https://scholar.google.com/citations?user=TNux4d4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TNux4d4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TNux4d4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "port.ac.uk",
+          "file_format": "PDF",
+          "link": "https://researchportal.port.ac.uk/files/13519347/Ahmed_Abubahia_PhD_Thesis.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Mgat7KaDmyoJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=3070192323941697074&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "3070192323941697074",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3070192323941697074&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Mgat7KaDmyoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3AMgat7KaDmyoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3070192323941697074&hl=en&as_sdt=5,44",
+          "cluster_id": "3070192323941697074",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3070192323941697074&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Mgat7KaDmyoJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Soft TDCT: a fuzzy approach towards triangle density based clustering",
+      "result_id": "0ucaZMrMx6YJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/83047691/pxc3894255.pdf",
+      "snippet": "Patterns and useful trends in large datasets has attracted considerable interest recently, and one of the most widely studied problems in this area is the identification and formation of …",
+      "publication_info": {
+        "summary": "HB Barua, S Sarmah, M Biswas - International Journal of Computer …, 2014 - academia.edu",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "M Biswas",
+            "link": "https://scholar.google.com/citations?user=RQZKhkYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RQZKhkYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RQZKhkYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/83047691/pxc3894255.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0ucaZMrMx6YJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12017799300296402898&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "12017799300296402898",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12017799300296402898&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0ucaZMrMx6YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3A0ucaZMrMx6YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=12017799300296402898&hl=en&as_sdt=5,44",
+          "cluster_id": "12017799300296402898",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12017799300296402898&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:0ucaZMrMx6YJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Fault Analysis and Trend Prediction in Telecommunication Using Pattern Detection: Architecture, Case Study and Experimentation",
+      "result_id": "ZoQFhoa4AKsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-13-8578-0_24",
+      "snippet": "In recent years, almost every industry especially digital, e-commerce and telecommunication experienced exponential growth of data. Harvesting knowledge in these highly dynamic …",
+      "publication_info": {
+        "summary": "KC Mondal, HB Barua - … Conference, CICBA 2018, Kalyani, India, July 27 …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/333997699_Fault_Analysis_and_Trend_Prediction_in_Telecommunication_Using_Pattern_Detection_Architecture_Case_Study_and_Experimentation/links/5e9e1cdba6fdcca7892bca8d/Fault-Analysis-and-Trend-Prediction-in-Telecommunication-Using-Pattern-Detection-Architecture-Case-Study-and-Experimentation.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZoQFhoa4AKsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZoQFhoa4AKsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3AZoQFhoa4AKsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12322051468399314022&hl=en&as_sdt=5,44",
+          "cluster_id": "12322051468399314022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12322051468399314022&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 0,
+      "title": "A Distributed Approach Towards Density Based Clustering: D-TDCT",
+      "result_id": "pmzKnCrDT-YJ",
+      "link": "https://link.springer.com/article/10.1007/s40031-018-0352-6",
+      "snippet": "Data clustering is not a new term in computing and specifically data mining. It has been around for years now. Many researches have been conducted in data mining using …",
+      "publication_info": {
+        "summary": "HB Barua - Journal of The Institution of Engineers (India): Series B, 2018 - Springer",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pmzKnCrDT-YJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pmzKnCrDT-YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3ApmzKnCrDT-YJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=16595697739670121638&hl=en&as_sdt=5,44",
+          "cluster_id": "16595697739670121638",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=16595697739670121638&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "An Efficient DBSCAN using Genetic Algorithm based Clustering",
+      "result_id": "jldEpF3MTbcJ",
+      "type": "Pdf",
+      "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9138a44acb00829bd6ec6d46708345f45cd44579",
+      "snippet": "Data mining is widely employed in business management and engineering. The major objective of data mining is to discover helpful and accurate information among a vast …",
+      "publication_info": {
+        "summary": "P Lovely Sharma, K Ramya - Citeseer"
+      },
+      "resources": [
+        {
+          "title": "psu.edu",
+          "file_format": "PDF",
+          "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9138a44acb00829bd6ec6d46708345f45cd44579"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=jldEpF3MTbcJ",
+        "cited_by": {
+          "total": null,
+          "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9138a44acb00829bd6ec6d46708345f45cd44579"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:jldEpF3MTbcJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&q=related%3AjldEpF3MTbcJ%3Ascholar.google.com%2F&start=10",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=13208437984707499918&hl=en&as_sdt=5,44",
+          "cluster_id": "13208437984707499918",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=13208437984707499918&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:jldEpF3MTbcJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&cites=14631852240069790219&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&cites=14631852240069790219&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14631852240069790219&engine=google_scholar&hl=en&start=10"
+    }
+  }
+}

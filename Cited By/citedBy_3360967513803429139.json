@@ -1,0 +1,563 @@
+{
+  "search_metadata": {
+    "id": "65435754c504e9da5f90d50d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1006cd58db7871d1/65435754c504e9da5f90d50d.json",
+    "created_at": "2023-11-02 08:01:24 UTC",
+    "processed_at": "2023-11-02 08:01:24 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=3360967513803429139&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/1006cd58db7871d1/65435754c504e9da5f90d50d.html",
+    "total_time_taken": 2.03
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "3360967513803429139",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 11,
+    "time_taken_displayed": 0.02
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=3360967513803429139&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Assistive technology for elderly care: an overview",
+      "result_id": "EF4XI3Pa0jYJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9465105/",
+      "snippet": "Global demographic changes have resulted in a growing technological demand to meet the arisen social needs. In particular, the increasingly ageing population requires assistive …",
+      "publication_info": {
+        "summary": "E Martinez-Martin, A Costa - IEEE Access, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "E Martinez-Martin",
+            "link": "https://scholar.google.com/citations?user=CuwQEDMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CuwQEDMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CuwQEDMAAAAJ"
+          },
+          {
+            "name": "A Costa",
+            "link": "https://scholar.google.com/citations?user=VS5m0MAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VS5m0MAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VS5m0MAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ieee.org",
+          "file_format": "PDF",
+          "link": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09465105.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EF4XI3Pa0jYJ",
+        "cited_by": {
+          "total": 18,
+          "link": "https://scholar.google.com/scholar?cites=3950460011202174480&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "3950460011202174480",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3950460011202174480&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:EF4XI3Pa0jYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3AEF4XI3Pa0jYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3950460011202174480&hl=en&as_sdt=5,44",
+          "cluster_id": "3950460011202174480",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3950460011202174480&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "DoRO: Disambiguation of referred object for embodied agents",
+      "result_id": "u6SmtKOHyjUJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9846930/",
+      "snippet": "Robotic task instructions often involve a referred object that the robot must locate (ground) within the environment. While task intent understanding is an essential part of natural …",
+      "publication_info": {
+        "summary": "P Pramanick, C Sarkar, S Paul… - IEEE Robotics and …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "P Pramanick",
+            "link": "https://scholar.google.com/citations?user=o9PXpR0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o9PXpR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o9PXpR0AAAAJ"
+          },
+          {
+            "name": "C Sarkar",
+            "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MMOS7xsAAAAJ"
+          },
+          {
+            "name": "S Paul",
+            "link": "https://scholar.google.com/citations?user=-XgsQ64AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-XgsQ64AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-XgsQ64AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2207.14205"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=u6SmtKOHyjUJ",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=3876059566485972155&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "3876059566485972155",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3876059566485972155&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:u6SmtKOHyjUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3Au6SmtKOHyjUJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=3876059566485972155&hl=en&as_sdt=5,44",
+          "cluster_id": "3876059566485972155",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3876059566485972155&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Talk-to-Resolve: Combining scene understanding and spatial dialogue to resolve granular task ambiguity for a collocated robot",
+      "result_id": "IoR3tQKLRbEJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0921889022001063",
+      "snippet": "The utility of collocating robots largely depends on the easy and intuitive interaction mechanism with the human. If a robot accepts task instruction in natural language, first, it has …",
+      "publication_info": {
+        "summary": "P Pramanick, C Sarkar, S Banerjee… - Robotics and Autonomous …, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "P Pramanick",
+            "link": "https://scholar.google.com/citations?user=o9PXpR0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o9PXpR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o9PXpR0AAAAJ"
+          },
+          {
+            "name": "C Sarkar",
+            "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MMOS7xsAAAAJ"
+          },
+          {
+            "name": "S Banerjee",
+            "link": "https://scholar.google.com/citations?user=yOR_qKMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yOR_qKMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yOR_qKMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2111.11099"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=IoR3tQKLRbEJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=12773768761856984098&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "12773768761856984098",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12773768761856984098&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:IoR3tQKLRbEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3AIoR3tQKLRbEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12773768761856984098&hl=en&as_sdt=5,44",
+          "cluster_id": "12773768761856984098",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12773768761856984098&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Interactive Learning-from-Observation through multimodal human demonstration",
+      "result_id": "TAtEaUOtacoJ",
+      "link": "https://arxiv.org/abs/2212.10787",
+      "snippet": "Learning-from-Observation (LfO) is a robot teaching framework for programming operations through few-shots human demonstration. While most previous LfO systems run with visual …",
+      "publication_info": {
+        "summary": "N Wake, A Kanehira, K Sasabuchi, J Takamatsu… - arXiv preprint arXiv …, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "N Wake",
+            "link": "https://scholar.google.com/citations?user=zhsJV6oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zhsJV6oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zhsJV6oAAAAJ"
+          },
+          {
+            "name": "A Kanehira",
+            "link": "https://scholar.google.com/citations?user=PFhzBl4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PFhzBl4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PFhzBl4AAAAJ"
+          },
+          {
+            "name": "J Takamatsu",
+            "link": "https://scholar.google.com/citations?user=9MYMKt8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9MYMKt8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9MYMKt8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2212.10787"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TAtEaUOtacoJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=14585379373256543052&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "14585379373256543052",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14585379373256543052&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TAtEaUOtacoJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3ATAtEaUOtacoJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=14585379373256543052&hl=en&as_sdt=5,44",
+          "cluster_id": "14585379373256543052",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=14585379373256543052&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:TAtEaUOtacoJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Can Visual Context Improve Automatic Speech Recognition for an Embodied Agent?",
+      "result_id": "XEE4juxmUigJ",
+      "link": "https://arxiv.org/abs/2210.13189",
+      "snippet": "The usage of automatic speech recognition (ASR) systems are becoming omnipresent ranging from personal assistant to chatbots, home, and industrial automation systems, etc …",
+      "publication_info": {
+        "summary": "P Pramanick, C Sarkar - arXiv preprint arXiv:2210.13189, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "P Pramanick",
+            "link": "https://scholar.google.com/citations?user=o9PXpR0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o9PXpR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o9PXpR0AAAAJ"
+          },
+          {
+            "name": "C Sarkar",
+            "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MMOS7xsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2210.13189"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XEE4juxmUigJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2905497875791757660&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2905497875791757660",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2905497875791757660&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:XEE4juxmUigJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3AXEE4juxmUigJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=2905497875791757660&hl=en&as_sdt=5,44",
+          "cluster_id": "2905497875791757660",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2905497875791757660&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:XEE4juxmUigJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Giving Instructions in Linear Temporal Logic",
+      "result_id": "JFteZgy1INIJ",
+      "link": "https://drops.dagstuhl.de/opus/volltexte/2022/17262/",
+      "snippet": "Our aim is to develop a formal semantics for giving instructions to taskable agents, to investigate the complexity of decision problems relating to these semantics, and to explore …",
+      "publication_info": {
+        "summary": "J Gutierrez, S Kraus, G Perelli… - … and Reasoning (TIME …, 2022 - drops.dagstuhl.de",
+        "authors": [
+          {
+            "name": "J Gutierrez",
+            "link": "https://scholar.google.com/citations?user=xs-rW_EAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xs-rW_EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xs-rW_EAAAAJ"
+          },
+          {
+            "name": "S Kraus",
+            "link": "https://scholar.google.com/citations?user=PfgeYGwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PfgeYGwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PfgeYGwAAAAJ"
+          },
+          {
+            "name": "G Perelli",
+            "link": "https://scholar.google.com/citations?user=QinfNSwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QinfNSwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QinfNSwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "dagstuhl.de",
+          "file_format": "PDF",
+          "link": "https://drops.dagstuhl.de/opus/volltexte/2022/17262/pdf/LIPIcs-TIME-2022-15.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JFteZgy1INIJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=15141301012081302308&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "15141301012081302308",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15141301012081302308&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:JFteZgy1INIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3AJFteZgy1INIJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=15141301012081302308&hl=en&as_sdt=5,44",
+          "cluster_id": "15141301012081302308",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15141301012081302308&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:JFteZgy1INIJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models",
+      "result_id": "oSSwjPH7_fgJ",
+      "link": "https://arxiv.org/abs/2309.04316",
+      "snippet": "Natural-language dialog is key for intuitive human-robot interaction. It can be used not only to express humans' intents, but also to communicate instructions for improvement if a robot …",
+      "publication_info": {
+        "summary": "L Bärmann, R Kartmann, F Peller-Konrad… - arXiv preprint arXiv …, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "L Bärmann",
+            "link": "https://scholar.google.com/citations?user=cVjPcOgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cVjPcOgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cVjPcOgAAAAJ"
+          },
+          {
+            "name": "R Kartmann",
+            "link": "https://scholar.google.com/citations?user=dQmbmD0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dQmbmD0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dQmbmD0AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2309.04316"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oSSwjPH7_fgJ",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=17941773505379968161&hl=en&as_sdt=5,44",
+          "cluster_id": "17941773505379968161",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17941773505379968161&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:oSSwjPH7_fgJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 7,
+      "title": "tagE: Enabling an Embodied Agent to Understand Human Instructions",
+      "result_id": "6FXoBgw3oaMJ",
+      "link": "https://arxiv.org/abs/2310.15605",
+      "snippet": "Natural language serves as the primary mode of communication when an intelligent agent with a physical presence engages with human beings. While a plethora of research focuses …",
+      "publication_info": {
+        "summary": "C Sarkar, A Mitra, P Pramanick, T Nayak - arXiv preprint arXiv:2310.15605, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "C Sarkar",
+            "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MMOS7xsAAAAJ"
+          },
+          {
+            "name": "P Pramanick",
+            "link": "https://scholar.google.com/citations?user=o9PXpR0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o9PXpR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o9PXpR0AAAAJ"
+          },
+          {
+            "name": "T Nayak",
+            "link": "https://scholar.google.com/citations?user=4AgZ2VYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4AgZ2VYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4AgZ2VYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2310.15605"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6FXoBgw3oaMJ",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:6FXoBgw3oaMJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 8,
+      "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+      "result_id": "en-EuwfyJCkJ",
+      "link": "https://arxiv.org/abs/2203.02959",
+      "snippet": "Telepresence and teleoperation robotics have attracted a great amount of attention in the last 10 years. With the Artificial Intelligence (AI) revolution already being started, we can see …",
+      "publication_info": {
+        "summary": "HB Barua, A Sau - arXiv preprint arXiv:2203.02959, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "A Sau",
+            "link": "https://scholar.google.com/citations?user=PUgt5BQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PUgt5BQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PUgt5BQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2203.02959"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=en-EuwfyJCkJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2964760569741344634&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2964760569741344634",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2964760569741344634&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:en-EuwfyJCkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3Aen-EuwfyJCkJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:en-EuwfyJCkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Utilizing Prior Knowledge to Improve Automatic Speech Recognition in Human-Robot Interactive Scenarios",
+      "result_id": "bytAi1Uw7x8J",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3568294.3580129",
+      "snippet": "The prolificacy of human-robot interaction not only depends on a robot's ability to understand the intent and content of the human utterance but also gets impacted by the …",
+      "publication_info": {
+        "summary": "P Pramanick, C Sarkar - Companion of the 2023 ACM/IEEE International …, 2023 - dl.acm.org",
+        "authors": [
+          {
+            "name": "P Pramanick",
+            "link": "https://scholar.google.com/citations?user=o9PXpR0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o9PXpR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o9PXpR0AAAAJ"
+          },
+          {
+            "name": "C Sarkar",
+            "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MMOS7xsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Pradip-Pramanick/publication/369195527_Utilizing_Prior_Knowledge_to_Improve_Automatic_Speech_Recognition_in_Human-Robot_Interactive_Scenarios/links/64136bd892cfd54f8406611a/Utilizing-Prior-Knowledge-to-Improve-Automatic-Speech-Recognition-in-Human-Robot-Interactive-Scenarios.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bytAi1Uw7x8J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:bytAi1Uw7x8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3AbytAi1Uw7x8J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=2301111078576204655&hl=en&as_sdt=5,44",
+          "cluster_id": "2301111078576204655",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2301111078576204655&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "Interactive Task Encoding System for Learning-from-Observation",
+      "result_id": "5PVrjypZvysJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10196126/",
+      "snippet": "We present the Interactive Task Encoding System (ITES) for teaching robots to perform manipulative tasks. ITES is designed as an input system for the Learning-from-Observation …",
+      "publication_info": {
+        "summary": "N Wake, A Kanehira, K Sasabuchi… - 2023 IEEE/ASME …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "N Wake",
+            "link": "https://scholar.google.com/citations?user=zhsJV6oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zhsJV6oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zhsJV6oAAAAJ"
+          },
+          {
+            "name": "A Kanehira",
+            "link": "https://scholar.google.com/citations?user=PFhzBl4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PFhzBl4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PFhzBl4AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "papercept.net",
+          "file_format": "PDF",
+          "link": "https://ras.papercept.net/images/temp/AIM/files/0062.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5PVrjypZvysJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5PVrjypZvysJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&q=related%3A5PVrjypZvysJ%3Ascholar.google.com%2F&start=10"
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&cites=3360967513803429139&scipsc=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=5,44&cites=3360967513803429139&scipsc=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=3360967513803429139&engine=google_scholar&hl=en&start=10"
+    }
+  }
+}

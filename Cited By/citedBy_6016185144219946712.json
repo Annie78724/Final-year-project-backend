@@ -1,0 +1,434 @@
+{
+  "search_metadata": {
+    "id": "654357c34055aaf37e195a5b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4fb7768a2537dd32/654357c34055aaf37e195a5b.json",
+    "created_at": "2023-11-02 08:03:15 UTC",
+    "processed_at": "2023-11-02 08:03:15 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=6016185144219946712&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/4fb7768a2537dd32/654357c34055aaf37e195a5b.html",
+    "total_time_taken": 0.56
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "6016185144219946712",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 10,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=6016185144219946712&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Detecting Groups and Estimating F-Formations for Social Human–Robot Interactions",
+      "result_id": "JXf9pTDgUvYJ",
+      "type": "Html",
+      "link": "https://www.mdpi.com/2414-4088/6/3/18",
+      "snippet": "The ability of a robot to detect and join groups of people is of increasing importance in social contexts, and for the collaboration between teams of humans and robots. In this paper, we …",
+      "publication_info": {
+        "summary": "SK Pathi, A Kiselev, A Loutfi - Multimodal Technologies and Interaction, 2022 - mdpi.com",
+        "authors": [
+          {
+            "name": "SK Pathi",
+            "link": "https://scholar.google.com/citations?user=QxsLcvsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QxsLcvsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QxsLcvsAAAAJ"
+          },
+          {
+            "name": "A Kiselev",
+            "link": "https://scholar.google.com/citations?user=3ybRzYIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3ybRzYIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3ybRzYIAAAAJ"
+          },
+          {
+            "name": "A Loutfi",
+            "link": "https://scholar.google.com/citations?user=ksNAb2kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ksNAb2kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ksNAb2kAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "mdpi.com",
+          "file_format": "HTML",
+          "link": "https://www.mdpi.com/2414-4088/6/3/18"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JXf9pTDgUvYJ",
+        "html_version": "https://www.mdpi.com/2414-4088/6/3/18",
+        "cited_by": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cites=17749495580968449829&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "17749495580968449829",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=17749495580968449829&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:JXf9pTDgUvYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3AJXf9pTDgUvYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=17749495580968449829&hl=en&as_sdt=5,44",
+          "cluster_id": "17749495580968449829",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=17749495580968449829&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:JXf9pTDgUvYJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Relationship existence recognition-based social group detection in urban public spaces",
+      "result_id": "BpLBehfzFkgJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0925231222013182",
+      "snippet": "In urban public spaces, a social group consists of two or more individuals who share some social relationships and interact based on mutual expectations. However, most existing …",
+      "publication_info": {
+        "summary": "L Li, L Qing, L Guo, Y Peng - Neurocomputing, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "L Qing",
+            "link": "https://scholar.google.com/citations?user=0KRDflwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0KRDflwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0KRDflwAAAAJ"
+          },
+          {
+            "name": "L Guo",
+            "link": "https://scholar.google.com/citations?user=EkMd45kAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EkMd45kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EkMd45kAAAAJ"
+          },
+          {
+            "name": "Y Peng",
+            "link": "https://scholar.google.com/citations?user=gcSNeHkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gcSNeHkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gcSNeHkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BpLBehfzFkgJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=5194606502387749382&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "5194606502387749382",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=5194606502387749382&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:BpLBehfzFkgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3ABpLBehfzFkgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=5194606502387749382&hl=en&as_sdt=5,44",
+          "cluster_id": "5194606502387749382",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=5194606502387749382&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Detecting socially interacting groups using f-formation: A survey of taxonomy, methods, datasets, applications, challenges, and future research directions",
+      "result_id": "AxRGdCMtDP4J",
+      "link": "https://arxiv.org/abs/2108.06181",
+      "snippet": "Robots in our daily surroundings are increasing day by day. Their usability and acceptability largely depend on their explicit and implicit interaction capability with fellow human beings …",
+      "publication_info": {
+        "summary": "HB Barua, TH Mg, P Pramanick, C Sarkar - arXiv preprint arXiv …, 2021 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "P Pramanick",
+            "link": "https://scholar.google.com/citations?user=o9PXpR0AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o9PXpR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o9PXpR0AAAAJ"
+          },
+          {
+            "name": "C Sarkar",
+            "link": "https://scholar.google.com/citations?user=MMOS7xsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MMOS7xsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MMOS7xsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2108.06181"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AxRGdCMtDP4J",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=18306056215652078595&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "18306056215652078595",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18306056215652078595&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:AxRGdCMtDP4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3AAxRGdCMtDP4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=18306056215652078595&hl=en&as_sdt=5,44",
+          "cluster_id": "18306056215652078595",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=18306056215652078595&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:AxRGdCMtDP4J:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Exploiting temporal information to detect conversational groups in videos and predict the next speaker",
+      "result_id": "d79qjpQyQuMJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0167865523002738",
+      "snippet": "Studies in human–human interaction have introduced the concept of F-formation to describe the spatial arrangement of participants during social interactions. This paper has two …",
+      "publication_info": {
+        "summary": "L Tosato, V Fortier, I Bloch, C Pelachaud - Pattern Recognition Letters, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "L Tosato",
+            "link": "https://scholar.google.com/citations?user=GvimArgAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GvimArgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GvimArgAAAAJ"
+          },
+          {
+            "name": "I Bloch",
+            "link": "https://scholar.google.com/citations?user=7BFEwr4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7BFEwr4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7BFEwr4AAAAJ"
+          },
+          {
+            "name": "C Pelachaud",
+            "link": "https://scholar.google.com/citations?user=n9ZNrsEAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=n9ZNrsEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "n9ZNrsEAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=d79qjpQyQuMJ"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Pose Generation for Social Robots in Conversational Group Formations",
+      "result_id": "XKyugCS8NXAJ",
+      "type": "Html",
+      "link": "https://www.frontiersin.org/articles/10.3389/frobt.2021.703807/full",
+      "snippet": "We study two approaches for predicting an appropriate pose for a robot to take part in group formations typical of social human conversations subject to the physical layout of the …",
+      "publication_info": {
+        "summary": "M Vázquez, A Lew, E Gorevoy… - Frontiers in Robotics and AI, 2022 - frontiersin.org",
+        "authors": [
+          {
+            "name": "M Vázquez",
+            "link": "https://scholar.google.com/citations?user=-wm8urcAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-wm8urcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-wm8urcAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "frontiersin.org",
+          "file_format": "HTML",
+          "link": "https://www.frontiersin.org/articles/10.3389/frobt.2021.703807/full"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XKyugCS8NXAJ",
+        "html_version": "https://www.frontiersin.org/articles/10.3389/frobt.2021.703807/full",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=8085575570977369180&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "8085575570977369180",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8085575570977369180&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:XKyugCS8NXAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3AXKyugCS8NXAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=8085575570977369180&hl=en&as_sdt=5,44",
+          "cluster_id": "8085575570977369180",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8085575570977369180&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:XKyugCS8NXAJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Real-time Trajectory-based Social Group Detection",
+      "result_id": "Mjd2S1Zn3jYJ",
+      "link": "https://arxiv.org/abs/2304.05678",
+      "snippet": "Social group detection is a crucial aspect of various robotic applications, including robot navigation and human-robot interactions. To date, a range of model-based techniques have …",
+      "publication_info": {
+        "summary": "S Jahangard, M Hayat, H Rezatofighi - arXiv preprint arXiv:2304.05678, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "S Jahangard",
+            "link": "https://scholar.google.com/citations?user=1bMrjtkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1bMrjtkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1bMrjtkAAAAJ"
+          },
+          {
+            "name": "M Hayat",
+            "link": "https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Mx8MbWYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Mx8MbWYAAAAJ"
+          },
+          {
+            "name": "H Rezatofighi",
+            "link": "https://scholar.google.com/citations?user=VxAuxMwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VxAuxMwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VxAuxMwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2304.05678"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Mjd2S1Zn3jYJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Mjd2S1Zn3jYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3AMjd2S1Zn3jYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3953711143208761138&hl=en&as_sdt=5,44",
+          "cluster_id": "3953711143208761138",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3953711143208761138&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Mjd2S1Zn3jYJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Efficiently Approaching Groups of People in a Socially Acceptable Manner in Environments with Obstacles",
+      "result_id": "U9SJ4gzIDFwJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10160378/",
+      "snippet": "Advancements in mobile robotics have allowed humans and robots to interact in different environments and ways. A problem of great interest in Human-Robot Interaction is how to …",
+      "publication_info": {
+        "summary": "AFF Silva, LE Almeida… - 2023 IEEE International …, 2023 - ieeexplore.ieee.org"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=U9SJ4gzIDFwJ"
+      }
+    },
+    {
+      "position": 7,
+      "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+      "result_id": "en-EuwfyJCkJ",
+      "link": "https://arxiv.org/abs/2203.02959",
+      "snippet": "Telepresence and teleoperation robotics have attracted a great amount of attention in the last 10 years. With the Artificial Intelligence (AI) revolution already being started, we can see …",
+      "publication_info": {
+        "summary": "HB Barua, A Sau - arXiv preprint arXiv:2203.02959, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "A Sau",
+            "link": "https://scholar.google.com/citations?user=PUgt5BQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PUgt5BQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PUgt5BQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2203.02959"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=en-EuwfyJCkJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2964760569741344634&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2964760569741344634",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2964760569741344634&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:en-EuwfyJCkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3Aen-EuwfyJCkJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:en-EuwfyJCkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 8,
+      "title": "Person Group Detection with Global Trajectory Extraction",
+      "result_id": "EfxH7IPkrAIJ",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4460606",
+      "snippet": "People group detection refers to the grouping of people with similar spatio-temporal trajectories. In this work, we address the problem of automatically detecting groups of people …",
+      "publication_info": {
+        "summary": "X Zhang, X Xie, L Wen, JH Lai - Available at SSRN 4460606 - papers.ssrn.com",
+        "authors": [
+          {
+            "name": "X Xie",
+            "link": "https://scholar.google.com/citations?user=5YZ3kvoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5YZ3kvoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5YZ3kvoAAAAJ"
+          },
+          {
+            "name": "JH Lai",
+            "link": "https://scholar.google.com/citations?user=w3GjGqoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w3GjGqoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w3GjGqoAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EfxH7IPkrAIJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:EfxH7IPkrAIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3AEfxH7IPkrAIJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:EfxH7IPkrAIJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Lessons learned from user experiments with a socially-aware mobile robot",
+      "result_id": "GZjVDOpfuCUJ",
+      "type": "Pdf",
+      "link": "https://seanavbench.interactive-machines.com/papers/alaguero.pdf",
+      "snippet": "Mobile robots need to understand human actions and produce socially accepted behaviors. In this paper, we address this issue and propose a method for mobile robots to communicate …",
+      "publication_info": {
+        "summary": "SL Alaguero, A Chirtoaca, D Chrysostomou… - seanavbench.interactive-machines …",
+        "authors": [
+          {
+            "name": "D Chrysostomou",
+            "link": "https://scholar.google.com/citations?user=bPSVAdQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bPSVAdQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bPSVAdQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "interactive-machines.com",
+          "file_format": "PDF",
+          "link": "https://seanavbench.interactive-machines.com/papers/alaguero.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=GZjVDOpfuCUJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:GZjVDOpfuCUJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6016185144219946712&engine=google_scholar&hl=en&q=related%3AGZjVDOpfuCUJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:GZjVDOpfuCUJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    }
+  ]
+}

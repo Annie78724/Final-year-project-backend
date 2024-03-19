@@ -1,0 +1,217 @@
+{
+  "search_metadata": {
+    "id": "654359ce87a0eee251e7cc99",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fdcc3dcee01ae82c/654359ce87a0eee251e7cc99.json",
+    "created_at": "2023-11-02 08:11:58 UTC",
+    "processed_at": "2023-11-02 08:11:58 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=2376759175390311109&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/fdcc3dcee01ae82c/654359ce87a0eee251e7cc99.html",
+    "total_time_taken": 0.2
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "2376759175390311109",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4,
+    "time_taken_displayed": 0.05
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=2376759175390311109&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Private and reliable neural network inference",
+      "result_id": "sLPvm975l5UJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3548606.3560709",
+      "snippet": "Reliable neural networks (NNs) provide important inference-time reliability guarantees such as fairness and robustness. Complementarily, privacy-preserving NN inference protects the …",
+      "publication_info": {
+        "summary": "N Jovanovic, M Fischer, S Steffen… - Proceedings of the 2022 …, 2022 - dl.acm.org",
+        "authors": [
+          {
+            "name": "N Jovanovic",
+            "link": "https://scholar.google.com/citations?user=nE1czKQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nE1czKQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nE1czKQAAAAJ"
+          },
+          {
+            "name": "M Fischer",
+            "link": "https://scholar.google.com/citations?user=dlEd8d4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dlEd8d4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dlEd8d4AAAAJ"
+          },
+          {
+            "name": "S Steffen",
+            "link": "https://scholar.google.com/citations?user=B5CwrFkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=B5CwrFkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "B5CwrFkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2210.15614"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=sLPvm975l5UJ",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=10779358967628805040&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "10779358967628805040",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10779358967628805040&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:sLPvm975l5UJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2376759175390311109&engine=google_scholar&hl=en&q=related%3AsLPvm975l5UJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=10779358967628805040&hl=en&as_sdt=5,44",
+          "cluster_id": "10779358967628805040",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=10779358967628805040&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Machine learning for internet of things-based smart transportation networks",
+      "result_id": "KAmGaGIBGUQJ",
+      "link": "https://www.igi-global.com/chapter/machine-learning-for-internet-of-things-based-smart-transportation-networks/309758",
+      "snippet": "The world's population is expanding, and people want to live in cities, making city administration a difficult task. Traditional cities, with their shared characteristics, will be …",
+      "publication_info": {
+        "summary": "H Khawar, TR Soomro, MA Kamal - Machine Learning for Societal …, 2022 - igi-global.com",
+        "authors": [
+          {
+            "name": "TR Soomro",
+            "link": "https://scholar.google.com/citations?user=0zP5EYoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0zP5EYoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0zP5EYoAAAAJ"
+          },
+          {
+            "name": "MA Kamal",
+            "link": "https://scholar.google.com/citations?user=SR1FpLoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SR1FpLoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SR1FpLoAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=KAmGaGIBGUQJ",
+        "cited_by": {
+          "total": 18,
+          "link": "https://scholar.google.com/scholar?cites=4906954791168903464&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "4906954791168903464",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=4906954791168903464&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:KAmGaGIBGUQJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2376759175390311109&engine=google_scholar&hl=en&q=related%3AKAmGaGIBGUQJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=4906954791168903464&hl=en&as_sdt=5,44",
+          "cluster_id": "4906954791168903464",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=4906954791168903464&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Green computing for big data and machine learning",
+      "result_id": "TOZ8qSNd-NgJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3493700.3493772",
+      "snippet": "The current decade has beheld a tremendous spike in data volume, velocity, variety and many other such aspects which we call as Big Data and which gave birth to a new kind of …",
+      "publication_info": {
+        "summary": "HB Barua, KC Mondal, S Khatua - … on Data Science & Management of …, 2022 - dl.acm.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "S Khatua",
+            "link": "https://scholar.google.com/citations?user=mPoxlFIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mPoxlFIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mPoxlFIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Hrishav-Barua/publication/357679225_Green_Computing_for_Big_Data_and_Machine_Learning/links/61dc6db33a192d2c8aefd91f/Green-Computing-for-Big-Data-and-Machine-Learning.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TOZ8qSNd-NgJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=15634348514165450316&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "15634348514165450316",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15634348514165450316&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TOZ8qSNd-NgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2376759175390311109&engine=google_scholar&hl=en&q=related%3ATOZ8qSNd-NgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15634348514165450316&hl=en&as_sdt=5,44",
+          "cluster_id": "15634348514165450316",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15634348514165450316&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Cloud Mining Actionable Pattern Discovery in Big Data: A Survey",
+      "result_id": "4dRkR44DnrAJ",
+      "type": "Pdf",
+      "link": "http://drtzacheva.com/Papers/2022_SurveyActionRules_Journal_TMLAI.pdf",
+      "snippet": "Everyday several tons of data are generated by Social Media and Education sectors. Mining this data can provide a lot of meaningful insights on how to improve user experience in …",
+      "publication_info": {
+        "summary": "A Tzacheva, S Chatterjee, Z Ras - 2022 - drtzacheva.com",
+        "authors": [
+          {
+            "name": "Z Ras",
+            "link": "https://scholar.google.com/citations?user=2ihGAJkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2ihGAJkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2ihGAJkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "drtzacheva.com",
+          "file_format": "PDF",
+          "link": "http://drtzacheva.com/Papers/2022_SurveyActionRules_Journal_TMLAI.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4dRkR44DnrAJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:4dRkR44DnrAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2376759175390311109&engine=google_scholar&hl=en&q=related%3A4dRkR44DnrAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12726613506613630177&hl=en&as_sdt=5,44",
+          "cluster_id": "12726613506613630177",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12726613506613630177&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:4dRkR44DnrAJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    }
+  ]
+}

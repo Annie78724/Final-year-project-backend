@@ -1,0 +1,309 @@
+{
+  "search_metadata": {
+    "id": "65435874ce87f831232a2d43",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b85ee335497e3a98/65435874ce87f831232a2d43.json",
+    "created_at": "2023-11-02 08:06:12 UTC",
+    "processed_at": "2023-11-02 08:06:12 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=10052916504376459259&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/b85ee335497e3a98/65435874ce87f831232a2d43.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "10052916504376459259",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 7,
+    "time_taken_displayed": 0.01
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=10052916504376459259&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Data science and Machine learning in the Clouds: A Perspective for the Future",
+      "result_id": "xTLKneDx-yAJ",
+      "link": "https://arxiv.org/abs/2109.01661",
+      "snippet": "As we are fast approaching the beginning of a paradigm shift in the field of science, Data driven science (the so called fourth science paradigm) is going to be the driving force in …",
+      "publication_info": {
+        "summary": "HB Barua - arXiv preprint arXiv:2109.01661, 2021 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2109.01661"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=xTLKneDx-yAJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=2376759175390311109&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2376759175390311109",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2376759175390311109&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:xTLKneDx-yAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10052916504376459259&engine=google_scholar&hl=en&q=related%3AxTLKneDx-yAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=2376759175390311109&hl=en&as_sdt=5,44",
+          "cluster_id": "2376759175390311109",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=2376759175390311109&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:xTLKneDx-yAJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Green computing for big data and machine learning",
+      "result_id": "TOZ8qSNd-NgJ",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3493700.3493772",
+      "snippet": "The current decade has beheld a tremendous spike in data volume, velocity, variety and many other such aspects which we call as Big Data and which gave birth to a new kind of …",
+      "publication_info": {
+        "summary": "HB Barua, KC Mondal, S Khatua - … on Data Science & Management of …, 2022 - dl.acm.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "S Khatua",
+            "link": "https://scholar.google.com/citations?user=mPoxlFIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mPoxlFIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mPoxlFIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Hrishav-Barua/publication/357679225_Green_Computing_for_Big_Data_and_Machine_Learning/links/61dc6db33a192d2c8aefd91f/Green-Computing-for-Big-Data-and-Machine-Learning.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=TOZ8qSNd-NgJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=15634348514165450316&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "15634348514165450316",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15634348514165450316&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:TOZ8qSNd-NgJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10052916504376459259&engine=google_scholar&hl=en&q=related%3ATOZ8qSNd-NgJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=15634348514165450316&hl=en&as_sdt=5,44",
+          "cluster_id": "15634348514165450316",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=15634348514165450316&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Cloud big data mining and analytics: Bringing greenness and acceleration in the cloud",
+      "result_id": "njm6hwGwALAJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-24628-9_22",
+      "snippet": "Big data is gaining overwhelming attention since the last decade. Almost all the fields of science and technology have experienced a considerable impact from it. The cloud …",
+      "publication_info": {
+        "summary": "HB Barua, KC Mondal - Machine Learning for Data Science Handbook …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2104.05765"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=njm6hwGwALAJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=12682330071293901214&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "12682330071293901214",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12682330071293901214&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:njm6hwGwALAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10052916504376459259&engine=google_scholar&hl=en&q=related%3Anjm6hwGwALAJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12682330071293901214&hl=en&as_sdt=5,44",
+          "cluster_id": "12682330071293901214",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12682330071293901214&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Exploring Approximate Comparator Circuits on Power Efficient Design of Decision Trees",
+      "result_id": "025MdM8DpqAJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9939599/",
+      "snippet": "In recent years, Approximate Computing has been gaining space as a technique for tackling energy requirements in error-resilient applications, while the usage of Machine Learning …",
+      "publication_info": {
+        "summary": "PA Silva, M Grellert, C Meinhardt - 2022 IFIP/IEEE 30th …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Grellert",
+            "link": "https://scholar.google.com/citations?user=V9ZSEjoAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=V9ZSEjoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "V9ZSEjoAAAAJ"
+          },
+          {
+            "name": "C Meinhardt",
+            "link": "https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nSxMVPkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nSxMVPkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=025MdM8DpqAJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:025MdM8DpqAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10052916504376459259&engine=google_scholar&hl=en&q=related%3A025MdM8DpqAJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 4,
+      "title": "ProSPECT: Proactive Storage Using Provenance for Efficient Compute and Tiering",
+      "result_id": "rLjC0jWqfJIJ",
+      "link": "https://link.springer.com/article/10.1007/s41403-021-00261-8",
+      "snippet": "AI and analytics applications are good at deriving meaningful insights from data, but they do not always cope well with the storage management challenges that come with a high pace …",
+      "publication_info": {
+        "summary": "M Murugan, S Bhattacharya, D Voigt, M Bharde… - Transactions of the …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "M Murugan",
+            "link": "https://scholar.google.com/citations?user=o53iD8sAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o53iD8sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o53iD8sAAAAJ"
+          },
+          {
+            "name": "S Bhattacharya",
+            "link": "https://scholar.google.com/citations?user=ubLpnh4AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ubLpnh4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ubLpnh4AAAAJ"
+          },
+          {
+            "name": "M Bharde",
+            "link": "https://scholar.google.com/citations?user=VJfAw2wAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VJfAw2wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VJfAw2wAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rLjC0jWqfJIJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=10555498774795565228&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "10555498774795565228",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10555498774795565228&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rLjC0jWqfJIJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10052916504376459259&engine=google_scholar&hl=en&q=related%3ArLjC0jWqfJIJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 5,
+      "title": "New adiabatic error tolerant adder I architectures",
+      "result_id": "ZGjV8tLS36EJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9070877/",
+      "snippet": "This paper proposes two architectures of 16-bit Adiabatic Error Tolerant Adder I (ETA I). The first architecture is based on adaptation of ETA I in Adiabatic domain and is termed as AETA …",
+      "publication_info": {
+        "summary": "AS Kumar, A Wadhwa, N Pandey - 2020 7th International …, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "AS Kumar",
+            "link": "https://scholar.google.com/citations?user=aZEczUAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aZEczUAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aZEczUAAAAAJ"
+          },
+          {
+            "name": "N Pandey",
+            "link": "https://scholar.google.com/citations?user=Q3aBH-sAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q3aBH-sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q3aBH-sAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZGjV8tLS36EJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=11664273363371911268&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "11664273363371911268",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=11664273363371911268&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZGjV8tLS36EJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10052916504376459259&engine=google_scholar&hl=en&q=related%3AZGjV8tLS36EJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 6,
+      "title": "FERMAT: FPGA energy reduction method by approximation theory",
+      "result_id": "feRFMZHwvE4J",
+      "link": "https://link.springer.com/article/10.1007/s11227-021-03644-4",
+      "snippet": "Today's field programmable gate arrays (FPGAs) offer a significant computational power and are commonly used in modern commercial digital designs. However, they generally suffer …",
+      "publication_info": {
+        "summary": "A Bavafa Toosi, M Sedighi - The Journal of Supercomputing, 2021 - Springer",
+        "authors": [
+          {
+            "name": "M Sedighi",
+            "link": "https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2RN0Y2YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2RN0Y2YAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=feRFMZHwvE4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:feRFMZHwvE4J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=10052916504376459259&engine=google_scholar&hl=en&q=related%3AfeRFMZHwvE4J%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=5673674136967570557&hl=en&as_sdt=5,44",
+          "cluster_id": "5673674136967570557",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=5673674136967570557&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ]
+}

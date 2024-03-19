@@ -1,0 +1,157 @@
+{
+  "search_metadata": {
+    "id": "65435a17f26ac63c4d9d5ed6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bdd7f8df96ba924e/65435a17f26ac63c4d9d5ed6.json",
+    "created_at": "2023-11-02 08:13:11 UTC",
+    "processed_at": "2023-11-02 08:13:11 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=18306056215652078595&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/bdd7f8df96ba924e/65435a17f26ac63c4d9d5ed6.html",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "18306056215652078595",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3,
+    "time_taken_displayed": 0.03
+  },
+  "profiles": {
+    "link": "https://scholar.google.com/scholar?cluster=18306056215652078595&hl=en&as_sdt=5,44",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "A two-branch deep learning with spatial and pose constraints for social group detection",
+      "result_id": "DngAFJHbbdAJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0952197623007674",
+      "snippet": "Group detection is a crucial yet challenging task in various application domains, including video surveillance analysis and service robot interactions. Previous studies have struggled …",
+      "publication_info": {
+        "summary": "X Lu, X Li, C Hu, J Deng, W Sheng, L Zhu - Engineering Applications of …, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "X Lu",
+            "link": "https://scholar.google.com/citations?user=8FTGr90AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8FTGr90AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8FTGr90AAAAJ"
+          },
+          {
+            "name": "C Hu",
+            "link": "https://scholar.google.com/citations?user=pw0K5BAAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pw0K5BAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pw0K5BAAAAAJ"
+          },
+          {
+            "name": "J Deng",
+            "link": "https://scholar.google.com/citations?user=JmUbRPsAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JmUbRPsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JmUbRPsAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DngAFJHbbdAJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DngAFJHbbdAJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18306056215652078595&engine=google_scholar&hl=en&q=related%3ADngAFJHbbdAJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 1,
+      "title": "Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing",
+      "result_id": "PtO4g6dX6sYJ",
+      "link": "https://arxiv.org/abs/2305.05062",
+      "snippet": "Localization of individuals in a built environment is a growing research topic. Estimating the positions, face orientation (or gaze direction) and trajectories of people through space has …",
+      "publication_info": {
+        "summary": "H Kwon, C Hedge, Y Kiarashi, VSK Madala… - arXiv preprint arXiv …, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "H Kwon",
+            "link": "https://scholar.google.com/citations?user=OwLXC4YAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OwLXC4YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OwLXC4YAAAAJ"
+          },
+          {
+            "name": "Y Kiarashi",
+            "link": "https://scholar.google.com/citations?user=2GjI4oMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2GjI4oMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2GjI4oMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2305.05062"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PtO4g6dX6sYJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=14333365141041107774&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "14333365141041107774",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=14333365141041107774&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:PtO4g6dX6sYJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18306056215652078595&engine=google_scholar&hl=en&q=related%3APtO4g6dX6sYJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=14333365141041107774&hl=en&as_sdt=5,44",
+          "cluster_id": "14333365141041107774",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=14333365141041107774&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:PtO4g6dX6sYJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 2,
+      "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+      "result_id": "en-EuwfyJCkJ",
+      "link": "https://arxiv.org/abs/2203.02959",
+      "snippet": "Telepresence and teleoperation robotics have attracted a great amount of attention in the last 10 years. With the Artificial Intelligence (AI) revolution already being started, we can see …",
+      "publication_info": {
+        "summary": "HB Barua, A Sau - arXiv preprint arXiv:2203.02959, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "A Sau",
+            "link": "https://scholar.google.com/citations?user=PUgt5BQAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PUgt5BQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PUgt5BQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2203.02959"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=en-EuwfyJCkJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2964760569741344634&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2964760569741344634",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2964760569741344634&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:en-EuwfyJCkJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=18306056215652078595&engine=google_scholar&hl=en&q=related%3Aen-EuwfyJCkJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:en-EuwfyJCkJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    }
+  ]
+}

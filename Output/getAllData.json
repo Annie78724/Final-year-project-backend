@@ -1,0 +1,499 @@
+[
+    {
+        "author_id": "A_sYj7IAAAAJ",
+        "author_name": "Hrishav Bakul Barua (hbarua@acm.org;hrishav.barua@monash.edu), Member- ACM, CSI, IEI, C.Eng",
+        "email": "Verified email at monash.edu",
+        "website": "https://www.researchgate.net/profile/Hrishav_Barua",
+        "author_affiliations": "Scientist @ TCS Research; Guest Faculty @ IIM Bodh Gaya; PhD @ Monash University",
+        "author_thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A_sYj7IAAAAJ&citpid=5",
+        "author_interests": [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Cognitive Robotics",
+            "Machine Learning",
+            "Data Science"
+        ],
+        "articles": [
+            {
+                "citation_id": "A_sYj7IAAAAJ:Wp0gIr-vW9MC",
+                "cites_id": "14136534331017924556",
+                "title": "Approximate Computing: A Survey of Recent Trends—Bringing Greenness to Computing and Communication",
+                "authors": "HB Barua, KC Mondal",
+                "year": "2019",
+                "publications": "Journal of The Institution of Engineers (India): Series B (Springer), ISSN …, 2019",
+                "cited_by_value": "56"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:mVmsd5A6BfQC",
+                "cites_id": "232965886830973926",
+                "title": "A Comprehensive survey on Cloud Data Mining (CDM) Frameworks and Algorithms",
+                "authors": "HB Barua, KC Mondal",
+                "year": "2019",
+                "publications": "ACM Computing Surveys (ACM CSUR), 2019",
+                "cited_by_value": "30"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:u5HHmVD_uO8C",
+                "cites_id": "14631852240069790219",
+                "title": "A density based clustering technique for large spatial data using polygon approach",
+                "authors": "HB Barua, DK Das, S Sarmah",
+                "year": "2012",
+                "publications": "TDCT, IOSR Journal of Computer Engineering (IOSRJCE) ISSN, 2278-0661, 2012",
+                "cited_by_value": "12"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:TQgYirikUcIC",
+                "cites_id": "3360967513803429139",
+                "title": "DeComplex: Task planning from complex natural instructions by a collocating robot",
+                "authors": "P Pramanick, HB Barua, C Sarkar",
+                "year": "2020",
+                "publications": "2020; 33rd IEEE/RSJ International Conference on Intelligent Robots and …, 2020",
+                "cited_by_value": "10"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:HDshCWvjkbEC",
+                "cites_id": "6016185144219946712",
+                "title": "Let me join you! Real-time F-formation recognition by a socially aware robot",
+                "authors": "HB Barua, P Pramanick, C Sarkar, TH Mg",
+                "year": "2020",
+                "publications": "2020; 29th IEEE International Conference on Robot and Human Interactive …, 2020",
+                "cited_by_value": "9"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:u-x6o8ySG0sC",
+                "cites_id": "680022000489400624,87916257167703011",
+                "title": "An extended density based clustering algorithm for large spatial 3d data using polyhedron approach",
+                "authors": "HB Barua, S Sarmah",
+                "year": "2012",
+                "publications": "International Journal of Computer Applications 58 (2), 2012",
+                "cited_by_value": "8"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:4DMP91E08xMC",
+                "cites_id": "10052916504376459259",
+                "title": "Green Data Mining using Approximate Computing: An experimental analysis with Rule Mining",
+                "authors": "HB Barua, KC Mondal",
+                "year": "2019",
+                "publications": "GUCON 2018 : IEEE International Conference On Computing, Power And …, 2019",
+                "cited_by_value": "7"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:qUcmZB5y_30C",
+                "cites_id": "15107827214783912048",
+                "title": "Demo: Edge-centric Telepresence Avatar Robot for Geographically Distributed Environment",
+                "authors": "A Sau, RD Roychoudhury, HB Barua, C Sarkar, S Paul, B Bhowmick, ...",
+                "year": "2020",
+                "publications": "The 21st (ACM) International Conference on Distributed Computing and …, 2020",
+                "cited_by_value": "6"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:IWHjjKOFINEC",
+                "cites_id": "15107827214783912048",
+                "title": "Demo: Edge-centric Telepresence Avatar Robot for Geographically Distributed Environment",
+                "authors": "A Sau, RD Roychoudhury, HB Barua, C Sarkar, S Paul",
+                "year": "2020",
+                "publications": null,
+                "cited_by_value": "6"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:GnPB-g6toBAC",
+                "cites_id": "9323603532652814680",
+                "title": "Computational Solar Energy - Ensemble Learning Methods for Prediction of Solar Power Generation based on Meteorological Parameters in Eastern India",
+                "authors": "D Chakraborty, J Mondal, HB Barua, A Bhattacharjee",
+                "year": "2023",
+                "publications": "Renewable Energy Focus (Elsevier), 2023",
+                "cited_by_value": "5"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:TFP_iSt0sucC",
+                "cites_id": "15634348514165450316",
+                "title": "Green Computing for Big data and Machine Learning",
+                "authors": "HB Barua, KC Mondal, S Khatua",
+                "year": "2022",
+                "publications": "ACM CODS-COMAD 2022 9th ACM IKDD CODS and 27th COMAD 5th Joint International …, 2022",
+                "cited_by_value": "4"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:bEWYMUwI8FkC",
+                "cites_id": "2376759175390311109",
+                "title": "Data science and Machine learning in the Clouds: A Perspective for the Future",
+                "authors": "HB Barua",
+                "year": "2021",
+                "publications": "arXiv preprint arXiv:2109.01661, 2021",
+                "cited_by_value": "4"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:mB3voiENLucC",
+                "cites_id": "8648499817874500215",
+                "title": "I can attend a meeting too! Towards a human-like telepresence avatar robot to attend meeting on your behalf",
+                "authors": "HB Barua, C Sarka, AA Kumar, A Pal, B P",
+                "year": "2020",
+                "publications": "arXiv:2006.15647, 2020",
+                "cited_by_value": "4"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:QIV2ME_5wuYC",
+                "cites_id": "8648499817874500215",
+                "title": "I can attend a meeting too! Towards a human-like telepresence avatar robot to attend meeting on your behalf",
+                "authors": "HB Barua, C Sarkar, AA Kumar, A Pal, B Purushothaman",
+                "year": "2019",
+                "publications": "28th IEEE International Conference on Robot & Human Interactive …, 2019",
+                "cited_by_value": "4"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:r0BpntZqJG4C",
+                "cites_id": "18306056215652078595",
+                "title": "Detecting socially interacting groups using f-formation: A survey of taxonomy, methods, datasets, applications, challenges, and future research directions",
+                "authors": "HB Barua, TH Mg, P Pramanick, C Sarkar",
+                "year": "2021",
+                "publications": "arXiv preprint arXiv:2108.06181, 2021",
+                "cited_by_value": "3"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:R3hNpaxXUhUC",
+                "cites_id": "12682330071293901214",
+                "title": "Cloud Big Data Mining and Analytics: Bringing Greenness and Acceleration in the Cloud",
+                "authors": "HB Barua, KC Mondal",
+                "year": "2021",
+                "publications": "Handbook of Machine Learning for Data Science, 2021",
+                "cited_by_value": "2"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:JV2RwH3_ST0C",
+                "cites_id": "2308823227025725566",
+                "title": "System and method for enabling robot to perceive and detect socially interacting groups",
+                "authors": "HB Barua, P Pramanick, C Sarkar",
+                "year": "2022",
+                "publications": "US Patent 11,354,531, 2022",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:O3NaXMp0MMsC",
+                "cites_id": "2964760569741344634",
+                "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+                "authors": "HB Barua, A Sau",
+                "year": "2022",
+                "publications": "arXiv preprint arXiv:2203.02959, 2022",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:-f6ydRqryjwC",
+                "cites_id": "18030532308825918848",
+                "title": "KNOWLEDGE PARTITIONING FOR TASK EXECUTION BY CONVERSATIONAL TELE-PRESENCE ROBOTS IN A GEOGRAPHICALLY SEPARATED ENVIRONMENT",
+                "authors": "S Chayan, S BANERJEE, P Pradip, HB Barua, S MAITY, D DAS, ...",
+                "year": "2021",
+                "publications": "US Patent App. 17/015,238, 2021",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:dhFuZR0502QC",
+                "cites_id": "2063731508104918595",
+                "title": "ATTENTION SHIFTING OF A ROBOT IN A GROUP CONVERSATION USING AUDIO- VISUAL PERCEPTION BASED SPEAKER LOCALIZATION",
+                "authors": "C Sarkar, HB Barua, AA Kumar, A Pal, B Purushothaman",
+                "year": "2021",
+                "publications": "US Patent 11,127,401, 2021",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:hC7cP41nSMkC",
+                "cites_id": "16196470461859180908",
+                "title": "ROBOTIC TASK PLANNING FOR COMPLEX TASK INSTRUCTIONS IN NATURAL LANGUAGE",
+                "authors": "P Pramanick, HB Barua, C Sarkar",
+                "year": "2021",
+                "publications": "US Patent App. 17/007,391, 2021",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:ZeXyd9-uunAC",
+                "cites_id": "17541789815925524777",
+                "title": "EDGE CENTRIC COMMUNICATION PROTOCOL FOR REMOTELY MANEUVERING A TELE-PRESENCE ROBOT IN A GEOGRAPHICALLY DISTRIBUTED ENVIRONMENT",
+                "authors": "A BHATTACHARYYA, A SAU, RD ROYCHOUDHURY, HB BARUA, ...",
+                "year": "2021",
+                "publications": "US Patent App. 16/988,453, 2021",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:7PzlFSSx8tAC",
+                "cites_id": "7319440730017412560",
+                "title": "A study of Approximation in a Collaborative Multi-Agent System",
+                "authors": "HB Barua, HS Paul, C Sarkar, A Banerjee",
+                "year": "2020",
+                "publications": "ICDCN (ACM) 2020: Proceedings of the 21st International Conference on …, 2020",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:Se3iqnhoufwC",
+                "cites_id": "12017799300296402898",
+                "title": "Soft TDCT: a fuzzy approach towards triangle density based clustering",
+                "authors": "HB Barua, S Sarmah, M Biswas",
+                "year": "2014",
+                "publications": "International Journal of Computer Applications 90 (8), 2014",
+                "cited_by_value": "1"
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:RGFaLdJalmkC",
+                "cites_id": null,
+                "title": "Method and system for generating 3d mesh of a scene using rgbd image sequence",
+                "authors": "S Agarwal, S Maity, HB Barua, B Bhowmick",
+                "year": "2023",
+                "publications": "US Patent App. 17/807,339, 2023",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:2P1L_qKh6hAC",
+                "cites_id": null,
+                "title": "ArtHDR-Net: Perceptually Realistic and Accurate HDR Content Creation",
+                "authors": "HB Barua, K Ganesh, W KokSheik, S Kalin, D Abhinav",
+                "year": "2023",
+                "publications": "Asia Pacific Signal and Information Processing Association Annual Summit and …, 2023",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:70eg2SAEIzsC",
+                "cites_id": null,
+                "title": "Improving Sentiment Prediction and Opinion Mining using Combined Review Datasets",
+                "authors": "",
+                "year": "2023",
+                "publications": "International Conference on Security, Surveillance and Artificial …, 2023",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:ns9cj8rnVeAC",
+                "cites_id": null,
+                "title": "Robo-vision! 3D Mesh Generation of a Scene for a Robot for Planar and Non-Planar Complex Objects",
+                "authors": "S Agarwal, S Maity, HB Barua, B Bhowmick",
+                "year": "2023",
+                "publications": "Multimedia Tools and Applications, 2023",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:RHpTSmoSYBkC",
+                "cites_id": null,
+                "title": "METHOD AND SYSTEM FOR GENERATING 3D MESH OF A SCENE USING RGBD IMAGE SEQUENCE",
+                "authors": "S Agarwal, S Maity, HB Barua, B Bhoumick",
+                "year": "2023",
+                "publications": "IN Patent App. 202,121,033,776, 2023",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:BqipwSGYUEgC",
+                "cites_id": null,
+                "title": "VacciNet: Towards a Reinforcement Learning based Smart Framework for Predicting the Distribution Chain Optimization of Vaccines for a Pandemic",
+                "authors": "J Mondal, J Dutta, HB Barua",
+                "year": "2022",
+                "publications": "Advanced AI and Internet of Health Things for Combating Pandemics, pp 337–358, 2022",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:blknAaTinKkC",
+                "cites_id": null,
+                "title": "Edge centric communication protocol for remotely maneuvering a tele-presence robot in a geographically distributed environment",
+                "authors": "A Bhattacharyya, A SAU, RD Roychoudhury, HB BARUA, C Sarkar, ...",
+                "year": "2022",
+                "publications": "EP Patent 3,846,414, 2022",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:hFOr9nPyWt4C",
+                "cites_id": null,
+                "title": "SYSTEM AND METHOD FOR ENABLING ROBOT TO PERCEIVE AND DETECT SOCIALLY INTERACTING GROUPS",
+                "authors": "B Hrishav, Bakul, P Pradip, S Chayan",
+                "year": "2021",
+                "publications": "US Patent App. 17/138,224, 2021",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:9ZlFYXVOiuMC",
+                "cites_id": null,
+                "title": "Approximate Computing for Robotic path planning -- Experimentation, Case Study and Practical Implications",
+                "authors": "HB Barua",
+                "year": "2021",
+                "publications": "arXiv preprint arXiv:2104.05773, 2021",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:_Qo2XoVZTnwC",
+                "cites_id": null,
+                "title": "Let me join you! Real-time F-formation recognition by a socially aware robot",
+                "authors": "H Bakul Barua, P Pramanick, C Sarkar, T Haythi Mg",
+                "year": "2020",
+                "publications": "arXiv e-prints, arXiv: 2008.10078, 2020",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:e5wmG9Sq2KIC",
+                "cites_id": null,
+                "title": "I can attend a meeting too! Towards a human-like telepresence avatar robot to attend meeting on your behalf",
+                "authors": "H Bakul Barua, C Sarkar, AA Kumar, A Pal",
+                "year": "2020",
+                "publications": "arXiv e-prints, arXiv: 2006.15647, 2020",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:M3ejUd6NZC8C",
+                "cites_id": null,
+                "title": "A Distributed Approach Towards Density Based Clustering: D-TDCT",
+                "authors": "HB Barua",
+                "year": "2018",
+                "publications": "Journal of The Institution of Engineers (India): Series B (Springer) 99 (6 …, 2018",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:qxL8FJ1GzNcC",
+                "cites_id": null,
+                "title": "Fault Analysis and Trend Prediction in Telecommunication using Pattern Detection : Architecture, Case study and Experimentation",
+                "authors": "KC Mondal, HB Barua",
+                "year": "2018",
+                "publications": "International Conference on Computational Intelligence, Communications, and …, 2018",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:4TOpqqG69KYC",
+                "cites_id": null,
+                "title": "An Implementation of Grid Densi ty Based Clustering Algorithm in Big Data",
+                "authors": "VJ Preetishree Patnaik",
+                "year": "2017",
+                "publications": "International Journal of Recent Research Aspects 4 (1), 61-65, 2017",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:UebtZRa9Y70C",
+                "cites_id": null,
+                "title": "Clustering Concepts and Techniques",
+                "authors": "HB Barua, D Das",
+                "year": "2014",
+                "publications": "LAP Lambert Academic Publishing (27 March 2014), 2014",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:ULOm3_A8WrAC",
+                "cites_id": null,
+                "title": "Hrishav Bakul Barua Sauravjyoti Sarmah",
+                "authors": "M Biswas",
+                "year": "2012",
+                "publications": "Journal of Computer Engineering (IOSRJCE) ISSN 3 (6), 01-10, 2012",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:lSLTfruPkqcC",
+                "cites_id": null,
+                "title": "METHOD AND SYSTEM FOR ESTIMATING TEMPORALLY CONSISTENT 3D HUMAN SHAPE AND MOTION FROM MONOCULAR VIDEO",
+                "authors": "T Lokender, S Avinash, C Sushovan, HB Barua, A Tiwari, B Bhowmick",
+                "year": "",
+                "publications": "IN Patent App. 202,321,026,563, 0",
+                "cited_by_value": null
+            },
+            {
+                "citation_id": "A_sYj7IAAAAJ:isC4tDSrTZIC",
+                "cites_id": null,
+                "title": "SYSTEM AND METHOD FOR DETERMINING AN OPTIMAL AND COST-EFFECTIVE VACCINE DISTRIBUTION CHAIN NETWORK",
+                "authors": "J Mondal, J Dutta, HB Barua",
+                "year": "",
+                "publications": "IN Patent App. 202,121,052,641, 0",
+                "cited_by_value": null
+            }
+        ],
+        "coauthors": [
+            {
+                "name": "Chayan Sarkar",
+                "affiliations": "Scientist, TCS Research",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MMOS7xsAAAAJ&citpid=4"
+            },
+            {
+                "name": "Kartick Chandra Mondal",
+                "affiliations": "Assistant Professor of Information Technology, Jadavpur University, Kolkata",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nCjzFVwAAAAJ&citpid=3"
+            },
+            {
+                "name": "Pradip Pramanick",
+                "affiliations": "Researcher, TCS Research",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o9PXpR0AAAAJ&citpid=8"
+            },
+            {
+                "name": "Dr. Arpan Pal",
+                "affiliations": "Distinguished Chief Scientist and Research Area Head, Embedded Devices and Intelligent Systems, TCS",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hkKS-xsAAAAJ&citpid=2"
+            },
+            {
+                "name": "Dr. Brojeshwar Bhowmick",
+                "affiliations": "Principal Scientist, TCS Research",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Eqf8NrEAAAAJ&citpid=4"
+            },
+            {
+                "name": "A Anil Kumar",
+                "affiliations": "TCS Research and Innovation",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            },
+            {
+                "name": "Jayeeta Mondal",
+                "affiliations": "Embedded Devices & Intelligent Systems @TCS Research | M. Tech @BITS Pilani | Guest faculty @IIM",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lW7H0AoAAAAJ&citpid=1"
+            },
+            {
+                "name": "Sayan Paul",
+                "affiliations": "Robotics & Autonomous Systems Lab, TCS Research",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-XgsQ64AAAAJ&citpid=1"
+            },
+            {
+                "name": "Abhijan Bhattacharyya",
+                "affiliations": "TCS Research, Tata Consultancy Services",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-eHGLnEAAAAJ&citpid=15"
+            },
+            {
+                "name": "Dr. Ankur Bhattacharjee",
+                "affiliations": "BITS-Pilani, Hyderabad Campus",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NlVN_ZEAAAAJ&citpid=1"
+            },
+            {
+                "name": "Debojyoti Chakraborty",
+                "affiliations": "Infosys Artificial Intelligence and Automation",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hXNpc6MAAAAJ&citpid=1"
+            },
+            {
+                "name": "Sunirmal Khatua",
+                "affiliations": "University of Calcutta",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mPoxlFIAAAAJ&citpid=1"
+            },
+            {
+                "name": "Jeet Dutta",
+                "affiliations": "Data Scientist, Deloitte",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7JdrahMAAAAJ&citpid=1"
+            },
+            {
+                "name": "Swapna Agarwal",
+                "affiliations": "Scientist at Tata Consultancy Services",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gpsZ7p8AAAAJ&citpid=3"
+            },
+            {
+                "name": "Himadri Sekhar Paul",
+                "affiliations": "Senior Scientist, TCS Research & Innovation, Kolkata",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KFC4sFcAAAAJ&citpid=4"
+            },
+            {
+                "name": "Ansuman Banerjee",
+                "affiliations": "Professor, Indian Statistical Institute",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rGFo1TQAAAAJ&citpid=2"
+            },
+            {
+                "name": "Dipanjan Das",
+                "affiliations": "Scientist, TCS Research & Innovation",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HRZMDDsAAAAJ&citpid=2"
+            },
+            {
+                "name": "Abhinav Dhall",
+                "affiliations": "Indian Institute of Technology Ropar; Monash University; IIIT-Delhi",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ypusncAAAAAJ&citpid=2"
+            },
+            {
+                "name": "Kalin Stefanov",
+                "affiliations": "Monash University",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0ZjgqkAAAAAJ&citpid=9"
+            },
+            {
+                "name": "KokSheik Wong",
+                "affiliations": "Monash University Malaysia",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oMjrLWcAAAAJ&citpid=2"
+            }
+        ]
+    }
+]

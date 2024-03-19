@@ -1,0 +1,299 @@
+{
+  "search_metadata": {
+    "id": "65435819fa867523026cf54a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/25f07c87235b9c53/65435819fa867523026cf54a.json",
+    "created_at": "2023-11-02 08:04:41 UTC",
+    "processed_at": "2023-11-02 08:04:41 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?cites=680022000489400624,87916257167703011&hl=en&start=0&as_sdt=5,44&scipsc=1",
+    "raw_html_file": "https://serpapi.com/searches/25f07c87235b9c53/65435819fa867523026cf54a.html",
+    "total_time_taken": 1.98
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "cites": "680022000489400624,87916257167703011",
+    "hl": "en",
+    "start": 0,
+    "as_sdt": "5,44"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 8,
+    "time_taken_displayed": 0.02
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Lane marking quality assessment for autonomous driving",
+      "result_id": "WrAJpn7TpncJ",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8593855/",
+      "snippet": "Measuring the quality of roads and ensuring they are ready for autonomous driving is important for future transportation systems. Here we focus on developing metrics and …",
+      "publication_info": {
+        "summary": "B Li, D Song, H Li, A Pike… - 2018 IEEE/RSJ …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "B Li",
+            "link": "https://scholar.google.com/citations?user=0lVZNXIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0lVZNXIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0lVZNXIAAAAJ"
+          },
+          {
+            "name": "D Song",
+            "link": "https://scholar.google.com/citations?user=jdSlREMAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jdSlREMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jdSlREMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "tamu.edu",
+          "file_format": "PDF",
+          "link": "http://telerobot.cs.tamu.edu/pdfs/Binbin_LaneQualityAssessment_V19.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=WrAJpn7TpncJ",
+        "cited_by": {
+          "total": 14,
+          "link": "https://scholar.google.com/scholar?cites=8621811077552386138&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "8621811077552386138",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=8621811077552386138&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:WrAJpn7TpncJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3AWrAJpn7TpncJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=8621811077552386138&hl=en&as_sdt=5,44",
+          "cluster_id": "8621811077552386138",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=8621811077552386138&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 1,
+      "title": "Belief Space-Guided Navigation for Robots and Autonomous Vehicles",
+      "result_id": "FCOYELGALzEJ",
+      "link": "https://search.proquest.com/openview/66c53a1b6e8595e3332b10a08e8485ed/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "snippet": "Navigating through the environment is a fundamental capability for mobile robots, which is still very challenging today. Most robotic applications these days, such as mining, disaster …",
+      "publication_info": {
+        "summary": "B Li - 2021 - search.proquest.com",
+        "authors": [
+          {
+            "name": "B Li",
+            "link": "https://scholar.google.com/citations?user=0lVZNXIAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0lVZNXIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0lVZNXIAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "tamu.edu",
+          "file_format": "PDF",
+          "link": "https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/193074/LI-DISSERTATION-2021.pdf?sequence=1"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FCOYELGALzEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:FCOYELGALzEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3AFCOYELGALzEJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=3544192929739842324&hl=en&as_sdt=5,44",
+          "cluster_id": "3544192929739842324",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=3544192929739842324&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Nano-scale Monte Carlo simulations of proton transport",
+      "result_id": "55iVtwR8e-gJ",
+      "type": "Pdf",
+      "link": "https://www.duo.uio.no/bitstream/handle/10852/87766/14/Master_JohannesTjelta.pdf",
+      "snippet": "Abstract Introduction: By the year 2024, Norway will have two proton therapy centers although to this day not much is known about proton interaction with matter in the low energy …",
+      "publication_info": {
+        "summary": "J Tjelta - 2021 - duo.uio.no",
+        "authors": [
+          {
+            "name": "J Tjelta",
+            "link": "https://scholar.google.com/citations?user=pCqvm5oAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pCqvm5oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pCqvm5oAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "uio.no",
+          "file_format": "PDF",
+          "link": "https://www.duo.uio.no/bitstream/handle/10852/87766/14/Master_JohannesTjelta.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=55iVtwR8e-gJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:55iVtwR8e-gJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3A55iVtwR8e-gJ%3Ascholar.google.com%2F&start=0",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:55iVtwR8e-gJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Soft TDCT: a fuzzy approach towards triangle density based clustering",
+      "result_id": "0ucaZMrMx6YJ",
+      "type": "Pdf",
+      "link": "https://www.academia.edu/download/83047691/pxc3894255.pdf",
+      "snippet": "Patterns and useful trends in large datasets has attracted considerable interest recently, and one of the most widely studied problems in this area is the identification and formation of …",
+      "publication_info": {
+        "summary": "HB Barua, S Sarmah, M Biswas - International Journal of Computer …, 2014 - academia.edu",
+        "authors": [
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          },
+          {
+            "name": "M Biswas",
+            "link": "https://scholar.google.com/citations?user=RQZKhkYAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RQZKhkYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RQZKhkYAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/83047691/pxc3894255.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0ucaZMrMx6YJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=12017799300296402898&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "12017799300296402898",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=12017799300296402898&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0ucaZMrMx6YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3A0ucaZMrMx6YJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=12017799300296402898&hl=en&as_sdt=5,44",
+          "cluster_id": "12017799300296402898",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12017799300296402898&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:0ucaZMrMx6YJ:scholar.google.com/&hl=en&as_sdt=5,44"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Sectional President's Address: The Political Geography of Colonial and Post-Colonial Assam: Construction and Contestations",
+      "result_id": "rS1CIOdTnygJ",
+      "link": "https://www.jstor.org/stable/44147685",
+      "snippet": "I am really grateful to the Indian History Congress for having elected me President, Modern India Section of the Congress for this seventieth session. I sincerely believe that this is a …",
+      "publication_info": {
+        "summary": "R Saikia - Proceedings of the Indian History Congress, 2009 - JSTOR"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rS1CIOdTnygJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=2927150534957870509&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "2927150534957870509",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2927150534957870509&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rS1CIOdTnygJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3ArS1CIOdTnygJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Fault Analysis and Trend Prediction in Telecommunication Using Pattern Detection: Architecture, Case Study and Experimentation",
+      "result_id": "ZoQFhoa4AKsJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-13-8578-0_24",
+      "snippet": "In recent years, almost every industry especially digital, e-commerce and telecommunication experienced exponential growth of data. Harvesting knowledge in these highly dynamic …",
+      "publication_info": {
+        "summary": "KC Mondal, HB Barua - … Conference, CICBA 2018, Kalyani, India, July 27 …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "KC Mondal",
+            "link": "https://scholar.google.com/citations?user=nCjzFVwAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nCjzFVwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nCjzFVwAAAAJ"
+          },
+          {
+            "name": "HB Barua",
+            "link": "https://scholar.google.com/citations?user=A_sYj7IAAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A_sYj7IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A_sYj7IAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Dr-Kartick-Mondal/publication/333997699_Fault_Analysis_and_Trend_Prediction_in_Telecommunication_Using_Pattern_Detection_Architecture_Case_Study_and_Experimentation/links/5e9e1cdba6fdcca7892bca8d/Fault-Analysis-and-Trend-Prediction-in-Telecommunication-Using-Pattern-Detection-Architecture-Case-Study-and-Experimentation.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZoQFhoa4AKsJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZoQFhoa4AKsJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3AZoQFhoa4AKsJ%3Ascholar.google.com%2F&start=0",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=12322051468399314022&hl=en&as_sdt=5,44",
+          "cluster_id": "12322051468399314022",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cluster=12322051468399314022&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Cultural History of Northern India, Prior to Medieval Invasion",
+      "result_id": "bFKkBJeak0YJ",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "K Chauhan - 1988 - Pratibha Prakashan"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bFKkBJeak0YJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=5085578377640039020&as_sdt=5,44&sciodt=5,44&hl=en",
+          "cites_id": "5085578377640039020",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=5085578377640039020&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:bFKkBJeak0YJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3AbFKkBJeak0YJ%3Ascholar.google.com%2F&start=0"
+      }
+    },
+    {
+      "position": 7,
+      "title": "OPEN DUMPS–THEIR EFFECT ON PUBLIC LIFE AND HEALTH",
+      "result_id": "SfyLJYBvkd8J",
+      "type": "Citation",
+      "snippet": "",
+      "publication_info": {
+        "summary": "VB Barua - WINTER",
+        "authors": [
+          {
+            "name": "VB Barua",
+            "link": "https://scholar.google.com/citations?user=WHiPqR8AAAAJ&hl=en&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WHiPqR8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WHiPqR8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SfyLJYBvkd8J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:SfyLJYBvkd8J:scholar.google.com/&scioq=&hl=en&as_sdt=5,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=680022000489400624%2C87916257167703011&engine=google_scholar&hl=en&q=related%3ASfyLJYBvkd8J%3Ascholar.google.com%2F&start=0"
+      }
+    }
+  ]
+}
