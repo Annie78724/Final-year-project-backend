@@ -223,9 +223,9 @@ app.post("/authors", async (req, res) => {
 
 app.post("/get-all-data", async (req, res) => {
   try {
-    const getCoAuthors = await pool.query("SELECT A.author_id, A.name AS author_name, A.email, A.website, A.affiliations AS author_affiliations, A.thumbnail AS author_thumbnail, A.interests AS author_interests, (SELECT json_agg(json_build_object('citation_id', AR.citation_id, 'cites_id', AR.cites_id, 'title', AR.title, 'authors', AR.authors, 'year', AR.year, 'publications', AR.publications, 'cited_by_value', AR.cited_by_value)) FROM Articles AR WHERE AR.author_id = A.author_id) AS articles, (SELECT json_agg(json_build_object('name', CA.name, 'affiliations', CA.affiliations, 'thumbnail', CA.thumbnail)) FROM CoAuthors CA WHERE CA.author_id = A.author_id) AS coauthors FROM Author A WHERE A.author_id = $1",[req.body.id]);
-    console.log(getCoAuthors.rows);
-    res.json(getCoAuthors.rows);
+    const getAllData = await pool.query("SELECT A.author_id, A.name AS author_name, A.email, A.website, A.affiliations AS author_affiliations, A.thumbnail AS author_thumbnail, A.interests AS author_interests, (SELECT json_agg(json_build_object('citation_id', AR.citation_id, 'cites_id', AR.cites_id, 'title', AR.title, 'authors', AR.authors, 'year', AR.year, 'publications', AR.publications, 'cited_by_value', AR.cited_by_value)) FROM Articles AR WHERE AR.author_id = A.author_id) AS articles, (SELECT json_agg(json_build_object('name', CA.name, 'affiliations', CA.affiliations, 'thumbnail', CA.thumbnail)) FROM CoAuthors CA WHERE CA.author_id = A.author_id) AS coauthors FROM Author A WHERE A.author_id = $1",[req.body.id]);
+    console.log(getAllData.rows);
+    res.json(getAllData.rows);
   } catch (error) {
     console.error(error.message);
   }
@@ -289,6 +289,37 @@ app.post("/api/get-cited-by-information", async (req, res) => {
   }
 });
 
+app.post("/get-self-citation",async (req,res)=>{
+  const {id}=req.body;
+  const getAllData = await pool.query("SELECT A.author_id, A.name AS author_name, A.email, A.website, A.affiliations AS author_affiliations, A.thumbnail AS author_thumbnail, A.interests AS author_interests, (SELECT json_agg(json_build_object('citation_id', AR.citation_id, 'cites_id', AR.cites_id, 'title', AR.title, 'authors', AR.authors, 'year', AR.year, 'publications', AR.publications, 'cited_by_value', AR.cited_by_value)) FROM Articles AR WHERE AR.author_id = A.author_id) AS articles, (SELECT json_agg(json_build_object('name', CA.name, 'affiliations', CA.affiliations, 'thumbnail', CA.thumbnail)) FROM CoAuthors CA WHERE CA.author_id = A.author_id) AS coauthors FROM Author A WHERE A.author_id = $1",[id]);
+  const articles=getAllData.rows[0].articles;
+  console.log(articles);
+  var result_id_array=[];
+  for(const article of articles)
+  {
+    if(article.cites_id!==null)
+    {
+      const author_id=id;
+      const cites_id=article.cites_id;
+      const citedByQuery = await pool.query(
+        "SELECT * FROM CITED_BY WHERE author_id = $1 AND cites_id = $2",
+        [author_id, cites_id]
+      );
+      for(const citedBy of citedByQuery.rows)
+      {
+        if(citedBy.publication_author_id==author_id)
+        {
+          const obj={
+            result_id:citedBy.result_id,
+            cites_id:article.cites_id
+          }
+          result_id_array.push(obj);
+        }
+      }
+    }
+  }
+  res.json(result_id_array);
+})
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
