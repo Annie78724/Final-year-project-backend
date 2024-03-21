@@ -175,10 +175,10 @@ app.post("/api/insertdata", async (req, res) => {
 
 app.post("/api/insert-cited-by-information", async (req, res) => {
   try {
-    const getAuthorId = await pool.query("SELECT author_id FROM articles WHERE cites_id = $1", [req.body.search_parameters.cites]);
-    let author_id=getAuthorId.rows[0].author_id;
-    let cites_id=req.body.search_parameters.cites;   
-    for(const organic_result of req.body.organic_results)
+    const {author_id,cited_by_info}=req.body;
+    console.log(author_id,cited_by_info.search_metadata.id);
+    let cites_id=cited_by_info.search_parameters.cites;   
+    for(const organic_result of cited_by_info.organic_results)
     {
       let title=organic_result.title,result_id=organic_result.result_id;
       if(organic_result.publication_info.authors==null)
