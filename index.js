@@ -185,7 +185,8 @@ app.post("/api/insert-cited-by-information", async (req, res) => {
       {
         let publication_author_name="NULL",publication_author_id="NULL";
         const citedByQuery="INSERT INTO CITED_BY (cited_by_unique_id,author_id, cites_id, result_id, title, publication_author_name, publication_author_id) VALUES ($1, $2, $3, $4, $5, $6, $7)";
-        let cited_by_unique_id=cites_id+"#"+result_id+"#"+publication_author_id;
+        let cited_by_unique_id=author_id+"#"+cites_id+"#"+result_id+"#"+publication_author_id;
+        console.log(cited_by_unique_id,publication_author_id); 
         let citedByValues=[cited_by_unique_id,author_id, cites_id, result_id, title, publication_author_name, publication_author_id]
         await pool.query(citedByQuery,citedByValues);
       }
@@ -195,7 +196,8 @@ app.post("/api/insert-cited-by-information", async (req, res) => {
         {
           let publication_author_name=author.name,publication_author_id=author.author_id;
           const citedByQuery="INSERT INTO CITED_BY (cited_by_unique_id,author_id, cites_id, result_id, title, publication_author_name, publication_author_id) VALUES ($1, $2, $3, $4, $5, $6, $7)";
-          let cited_by_unique_id=cites_id+"#"+result_id+"#"+publication_author_id;
+          let cited_by_unique_id=author_id+"#"+cites_id+"#"+result_id+"#"+publication_author_id;
+          console.log(cited_by_unique_id,publication_author_id);
           let citedByValues=[cited_by_unique_id,author_id, cites_id, result_id, title, publication_author_name, publication_author_id]
           await pool.query(citedByQuery,citedByValues);
         }
@@ -321,6 +323,10 @@ app.post("/get-self-citation",async (req,res)=>{
   res.json(result_id_array);
 })
 
+// app.get("/del",async (req,res)=>{
+//   const query =await pool.query("delete from cited_by");
+//   console.log("deleted");
+// })
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
